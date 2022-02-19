@@ -1,0 +1,6 @@
+description: 'Config file for GCP SQL'
+host: 34.131.19.243
+user: user
+passwd: tosdr2022
+tosdr_mail: email
+tosdr_passwd: password
