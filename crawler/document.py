@@ -6,7 +6,7 @@ import requests
 class DocumentCrawler(BasicCrawler):
 
     URL = 'https://edit.tosdr.org/documents'
-    CRAWL_NUM = 30
+    CRAWL_NUM = 3
 
     def __init__(self, db, webdriver_init = False):
         super().__init__(db, webdriver_init)
@@ -25,7 +25,7 @@ class DocumentCrawler(BasicCrawler):
                 results.append(result)
 
             self.db.insert('DOCUMENT', results)
-            docs[to_crawl.index, 'crawled'] = 1
+            docs.loc[to_crawl.index, 'crawled'] = 1
             docs.to_csv('resources/document.csv', sep='\t', index=False)
             self.log.info(f'Crawl {len(results)} results, finished {docs["crawled"].sum()}/{len(docs)}')
             results = []
