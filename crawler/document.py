@@ -6,7 +6,7 @@ import requests
 class DocumentCrawler(BasicCrawler):
 
     URL = 'https://edit.tosdr.org/documents'
-    CRAWL_NUM = 3
+    CRAWL_NUM = 30
 
     def __init__(self, db, webdriver_init = False):
         super().__init__(db, webdriver_init)
@@ -39,12 +39,12 @@ class DocumentCrawler(BasicCrawler):
         card = soup.select_one('div.card-inline div.row')
         service_id = card.select_one('.col-lg-6 > h1 > a').attrs['href']
         service_id = service_id.split('/')[-2]
-        type = card.select_one('.col-lg-6 > h5').get_text()
+        doc_type = card.select_one('.col-lg-6 > h5').get_text()
         text = soup.select_one('.overflow').get_text()
         return {'DOC_ID': ids,
                 'SERVICE_ID': service_id,
                 'TEXT': text,
-                'TYPE': type,
+                'TYPE': doc_type,
                 'LINK': link}
 
 if __name__ == '__main__':

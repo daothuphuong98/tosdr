@@ -2,7 +2,6 @@ from utils.sqldb import MySQLDB
 
 if __name__ == '__main__':
     dem = MySQLDB('34.131.19.243', 'user', 'tosdr2022','raw')
-    dem.execute_sql('ALTER TABLE DOCUMENT DROP COLUMN SOURCE_URL;')
     # dem.execute_sql('''
     #                     CREATE TABLE IF NOT EXISTS SERVICE
     #                     (
@@ -56,7 +55,9 @@ if __name__ == '__main__':
     #                         LINK VARCHAR(50),
     #                         STATUS VARCHAR(10),
     #                         CASE_ID VARCHAR(10) REFERENCES CASES(CASE_ID),
-    #                         DOCUMENT_ID VARCHAR(10) REFERENCES DOCUMENT(DOCUMENT_ID),
+    #                         SERVICE_ID VARCHAR(10) REFERENCES SERVICE(SERVICE_ID),
+    #                         DOC_ID VARCHAR(10) REFERENCES DOCUMENT(DOC_ID),
+    #                         SOURCE VARCHAR(100),
     #                         TEXT VARCHAR(1000)
     #
     #                     )
