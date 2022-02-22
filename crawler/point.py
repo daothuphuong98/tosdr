@@ -34,6 +34,7 @@ class PointCrawler(BasicCrawler):
             self.log.info(f'Crawl {len(results)} results, finished {docs["crawled"].sum()}/{len(docs)}')
             results = []
 
+        pd.Series(errors).to_csv('resources/point_error.csv', index=False, sep='\t')
         self.log.info(f'Finished')
 
     def crawl_point(self, link):
