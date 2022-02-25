@@ -57,8 +57,8 @@ if __name__ == '__main__':
     #                         CASE_ID VARCHAR(10) REFERENCES CASES(CASE_ID),
     #                         SERVICE_ID VARCHAR(10) REFERENCES SERVICE(SERVICE_ID),
     #                         DOC_ID VARCHAR(10) REFERENCES DOCUMENT(DOC_ID),
-    #                         SOURCE VARCHAR(200),
-    #                         TEXT VARCHAR(1000)
+    #                         SOURCE VARCHAR(1000),
+    #                         TEXT TEXT
     #
     #                     )
     #                  '''
