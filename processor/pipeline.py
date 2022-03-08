@@ -19,5 +19,5 @@ def main(ind):
             doc.to_csv(f'data/clean_doc/doc_{doc["DOC_ID"]}.csv', index=False)
 
 if __name__ == '__main__':
-    main(16)
+    main(20)
 
