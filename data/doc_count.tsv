@@ -1,0 +1,1084 @@
+DOC_COUNT	POINT_COUNT	SERVICE_ID	NAME	point_per_doc
+5	600	182	Facebook	120.0
+4	480	194	Reddit	120.0
+3	345	536	Discord	115.0
+2	224	217	Google	112.0
+14	1554	230	PayPal	111.0
+4	420	225	Spotify	105.0
+2	208	1553	Speedtest by Ookla	104.0
+5	520	219	Instagram	104.0
+3	306	198	WhatsApp	102.0
+4	408	193	LinkedIn	102.0
+5	495	175	Pinterest	99.0
+3	291	200	Twitch	97.0
+3	285	297	GitHub & Global Privacy Control	95.0
+6	570	2428	Prezi	95.0
+2	190	280	Tumblr	95.0
+2	180	1815	Khan Academy	90.0
+6	522	244	Microsoft Services	87.0
+4	340	180	Steam	85.0
+7	595	1336	Roblox	85.0
+2	164	2453	iFunny	82.0
+5	395	462	Tinder	79.0
+3	234	1364	Brilliant	78.0
+2	156	185	Netflix	78.0
+2	156	195	Twitter	78.0
+8	616	1511	Shopify	77.0
+5	380	2120	Alibaba	76.0
+2	152	2354	WeMod	76.0
+5	375	332	Jagex (including RuneScape)	75.0
+3	222	226	eBay	74.0
+4	292	539	Blizzard	73.0
+4	292	188	Firefox Cloud Services	73.0
+3	219	309	Yahoo!	73.0
+4	288	2198	Zoom Video Communications	72.0
+3	216	306	Mega	72.0
+2	142	2454	The Walt Disney Company	71.0
+4	280	3262	Privacy	70.0
+2	140	1607	SourceHut	70.0
+2	140	2461	Merriam-Webster	70.0
+8	544	311	Snapchat	68.0
+2	136	4521	Gettr	68.0
+3	204	1741	Discovery	68.0
+4	272	187	Meredith	68.0
+26	1768	190	Amazon	68.0
+2	134	697	NordVPN	67.0
+2	134	1575	Enpass	67.0
+6	396	270	Dropbox	66.0
+2	132	4813	CodeSandbox	66.0
+7	455	274	YouTube	65.0
+4	252	2646	Guilded	63.0
+2	124	1564	MeWe	62.0
+5	310	866	Dailymotion	62.0
+2	124	632	edX	62.0
+2	124	2542	Le Monde	62.0
+6	372	491	ProtonMail	62.0
+5	305	2581	Cisco	61.0
+3	183	1830	Strava	61.0
+2	122	417	Adobe Services	61.0
+2	122	318	CNN	61.0
+3	180	1638	Redbubble	60.0
+8	480	158	Apple Services	60.0
+7	420	1588	Coinbase	60.0
+2	118	2622	Crain's Chicago Business	59.0
+3	177	252	Uber	59.0
+3	177	369	Riot Games (League of Legends)	59.0
+17	1003	1448	TikTok	59.0
+3	171	2392	Instructure	57.0
+3	171	2645	Rumble	57.0
+2	112	264	VKontakte	56.0
+2	112	319	W3Schools	56.0
+5	280	2532	Authy (Twilio)	56.0
+2	112	1013	Fiverr	56.0
+2	112	2391	Odysee (LBRY)	56.0
+3	165	805	xda-developers	55.0
+2	110	1892	Artspace	55.0
+3	162	168	Airbnb	54.0
+3	162	2697	Burger King	54.0
+4	216	1362	Wattpad	54.0
+2	108	527	Qwant	54.0
+5	270	528	Signal	54.0
+2	106	3824	SpanishDict	53.0
+3	159	2491	Gfycat	53.0
+3	159	616	Pornhub	53.0
+3	159	164	Vimeo	53.0
+4	208	2254	Ubisoft	52.0
+4	208	2498	Element	52.0
+6	312	2447	likee	52.0
+3	156	1817	Notion	52.0
+2	104	1748	McDonald's	52.0
+2	104	183	CouchSurfing	52.0
+4	204	2444	Amazon Prime Video	51.0
+4	204	894	Cloudflare	51.0
+5	255	727	New York Times	51.0
+2	102	2399	Fivestars	51.0
+4	204	4154	ClassDojo	51.0
+3	153	2141	Avast	51.0
+5	250	291	iCloud	50.0
+5	250	2929	Wish	50.0
+2	98	265	Wikipedia	49.0
+2	98	1570	AliExpress	49.0
+3	147	2580	Future PLC	49.0
+2	96	1348	Bitwarden	48.0
+5	240	2371	Vivaldi	48.0
+4	192	1007	Brainly	48.0
+3	144	4219	Getty Images	48.0
+2	96	825	Samsung	48.0
+6	282	513	BitChute	47.0
+2	94	2062	Calendly	47.0
+2	94	322	BBC	47.0
+4	188	221	Waze	47.0
+2	94	324	Urban Dictionary	47.0
+2	92	989	Washington Post	46.0
+2	92	356	SourceForge	46.0
+4	184	2315	Fandango	46.0
+2	92	277	Grammarly	46.0
+3	135	1745	ProtonVPN	45.0
+2	90	679	TunnelBear	45.0
+6	270	687	FastMail	45.0
+2	90	313	IMDb	45.0
+5	225	460	Credit Karma	45.0
+4	176	2745	Disney+	44.0
+2	88	2068	Surfshark	44.0
+2	88	1357	Minds	44.0
+2	88	1522	ShortcutWorld.com	44.0
+3	132	609	Bandcamp	44.0
+2	88	3682	webmail	44.0
+3	129	2543	Le Parisien	43.0
+2	86	331	Bing	43.0
+3	129	461	yelp	43.0
+5	210	2409	Kaspersky	42.0
+3	126	509	Free Code Camp	42.0
+3	126	1581	HideMyAss!	42.0
+3	126	912	Malwarebytes	42.0
+3	126	511	MyAnimeList	42.0
+4	168	2674	PureVPN	42.0
+2	84	1713	FaceApp	42.0
+2	84	1548	ShapeShift	42.0
+3	123	4614	Porton Private Cloudstorage	41.0
+2	82	314	Quora	41.0
+3	123	165	Goodreads	41.0
+3	123	506	YNAB. (You Need a Budget)	41.0
+4	164	1003	Medium	41.0
+6	246	826	FileFactory	41.0
+2	82	4147	Remind	41.0
+5	205	192	DeviantArt	41.0
+2	80	262	Symbaloo	40.0
+3	120	2539	Marca	40.0
+4	160	251	Foursquare	40.0
+2	80	1339	Amazon AWS	40.0
+6	240	1010	Patreon	40.0
+2	80	2529	Encyclopedia Britannica	40.0
+5	200	1487	Brave	40.0
+2	80	4514	Booking.com	40.0
+3	117	2535	Однокла́ссники (Ok.ru)	39.0
+2	78	744	Duolingo	39.0
+2	78	4516	Audacity	39.0
+4	156	3587	Wickr Me	39.0
+3	117	3002	MobyGames	39.0
+3	117	2531	NBC News	39.0
+5	195	2579	Pearltrees	39.0
+2	78	2031	Creative Commons	39.0
+2	78	798	Patook	39.0
+2	76	404	Keybase	38.0
+2	76	831	Clockify	38.0
+2	76	2312	Archive of Our Own	38.0
+2	76	2382	Doxy	38.0
+2	76	208	Pure Dating	38.0
+2	76	596	ToS;DR	38.0
+2	76	2039	Virtual World Computing Cocoon MyData Rewards	38.0
+3	114	3206	Parler	38.0
+6	228	2808	Consumer News & Business Channel	38.0
+3	114	4513	Prisma Media	38.0
+8	304	347	GoDaddy	38.0
+4	152	2685	ADT	38.0
+12	456	312	Stack Overflow	38.0
+2	74	2995	Among Us	37.0
+1	37	707	Nextcloud	37.0
+11	407	576	Atlassian	37.0
+2	74	721	Bilibili	37.0
+3	111	2538	Eltiempo.es	37.0
+2	74	2530	United States Postal Service	37.0
+2	72	2207	hCaptcha	36.0
+2	72	2659	Alan Thomson Simulation	36.0
+3	108	1946	Telegram	36.0
+2	70	591	Ecosia	35.0
+4	140	2695	Vox Media	35.0
+6	210	403	Fur Affinity	35.0
+1	35	603	Discogs	35.0
+3	105	715	BlaBlaCar	35.0
+1	35	1372	Presearch	35.0
+2	70	2412	Pixel8Earth	35.0
+5	175	2846	Orange	35.0
+2	70	2701	ExpressVPN	35.0
+3	105	276	SoundCloud	35.0
+3	105	1563	IKEA	35.0
+2	70	2201	Jitsi	35.0
+2	70	444	Heaven HR	35.0
+1	35	4769	Translate	35.0
+2	68	4079	Stingle Photos	34.0
+3	102	1352	MySudo	34.0
+11	374	186	Flickr	34.0
+2	68	305	eBuddy	34.0
+4	136	1537	Pexgle	34.0
+4	136	2895	Line Corporation	34.0
+2	68	382	Tripadvisor	34.0
+3	99	628	SpigotMC	33.0
+4	132	1684	Roll20	33.0
+9	297	239	Disqus	33.0
+2	66	1936	Metacafe	33.0
+2	66	348	Hulu	33.0
+3	99	2718	Medscape	33.0
+2	66	1593	ISODME	33.0
+6	198	3551	Wise	33.0
+3	99	3160	Rofkin	33.0
+3	99	2758	XE.com	33.0
+3	99	445	Walmart	33.0
+1	33	1447	Observable	33.0
+3	96	2746	Arch Linux	32.0
+2	64	490	HuffPost	32.0
+2	64	1472	PrivacyTools	32.0
+2	64	1554	Ting Inc.	32.0
+2	64	4781	Marmiton	32.0
+2	64	160	toodledo	32.0
+1	32	3855	Guiding Tech	32.0
+3	96	2074	Letterboxd	32.0
+2	64	514	GitLab	32.0
+3	96	2941	CNED	32.0
+3	96	693	Viagogo	32.0
+3	96	3115	L'Equipe	32.0
+2	64	384	Pocket	32.0
+2	62	2436	V.H. Hess	31.0
+2	62	272	IBM	31.0
+2	62	2690	Selfie2Anime	31.0
+3	93	4560	SpaceHey	31.0
+5	155	705	Nvidia	31.0
+3	93	211	Myspace	31.0
+4	124	1742	National Geographic	31.0
+2	62	3716	Simply Earth	31.0
+2	62	161	LastPass	31.0
+2	62	2224	Smartmessages	31.0
+2	62	2361	Attendify	31.0
+2	62	173	WordPress.org	31.0
+2	62	2795	Veepn	31.0
+2	62	2202	Turnitin	31.0
+2	60	3144	OneSignal	30.0
+3	90	1597	Huawei	30.0
+3	90	1812	Healthline	30.0
+3	90	2847	Le Bon Coin	30.0
+4	120	4278	Jeuxvideo.com	30.0
+3	87	523	Search Encrypt	29.0
+4	116	315	WikiHow	29.0
+4	116	813	Quizlet	29.0
+3	87	202	Microsoft Store	29.0
+2	58	3428	SmartThings	29.0
+2	58	2618	Schoology	29.0
+2	58	2196	Houseparty	29.0
+2	58	2359	Hinterland Games	29.0
+1	29	2045	Dendreo	29.0
+5	145	267	SpiderOak	29.0
+3	87	489	Xfinity	29.0
+3	84	2481	Instabridge	28.0
+3	84	206	Slack	28.0
+2	56	224	Bitly	28.0
+4	112	1465	TV Tropes	28.0
+3	84	2136	Le Soir	28.0
+5	140	530	Mozilla.org	28.0
+4	112	370	ASKfm	28.0
+2	56	406	Xiaomi	28.0
+1	28	896	Target	28.0
+2	56	2629	STiBaRC	28.0
+2	56	1735	The Movie Database (TMDb)	28.0
+2	56	534	Kahoot!	28.0
+2	56	3291	SC Johnson	28.0
+3	81	2073	DeepL	27.0
+3	81	214	WeTransfer	27.0
+4	108	2804	LightyearVPN	27.0
+3	81	698	Sync	27.0
+2	54	2716	CyberGhost	27.0
+2	54	3906	YouGov	27.0
+2	54	3710	VPN Hamster	27.0
+4	108	317	Fox News	27.0
+3	81	443	Kongregate	27.0
+6	162	2416	BitDefender	27.0
+4	104	1694	Mailfence	26.0
+3	78	2317	Deleted Service 2317 by user 1764	26.0
+2	52	288	weebly	26.0
+2	52	614	Amnesty International Limited (UK)	26.0
+3	78	4024	Just Eat	26.0
+2	52	3015	Session	26.0
+2	52	580	Liberapay	26.0
+3	78	2458	BBVA	26.0
+2	52	1421	vinted	26.0
+3	78	2582	Linksys	26.0
+4	104	2518	FamilyTreeDNA	26.0
+4	104	2811	Swiss Government	26.0
+1	26	1696	Tresorit	26.0
+1	26	2218	YNAB	26.0
+1	26	3362	APK Pure	26.0
+4	104	2536	WordReference	26.0
+4	104	3255	ViacomCBS	26.0
+4	104	2385	Syniverse	26.0
+2	50	1012	BetterHelp	25.0
+2	50	1009	Nexon	25.0
+2	50	289	Groupon	25.0
+4	100	602	Posteo	25.0
+4	100	2856	Microspot	25.0
+3	75	2429	pCloud	25.0
+2	50	2619	Savvas Realize	25.0
+2	50	2540	El Mundo (Spain)	25.0
+2	50	5059	Roadtrip Nation	25.0
+3	75	3522	Movistar	25.0
+2	50	1954	How-To Geek	25.0
+3	75	327	RiseUp.net	25.0
+2	50	275	Minecraft	25.0
+3	75	245	envato	25.0
+2	50	809	Todoist	25.0
+2	50	1377	Upcloud	25.0
+2	50	860	Yandex	25.0
+5	120	836	Scratch	24.0
+6	144	1580	CCleaner	24.0
+3	72	2555	FanFiction	24.0
+2	48	2865	DrugBank	24.0
+1	24	838	10minutemail	24.0
+2	48	2262	Listudy	24.0
+4	96	794	Heroku	24.0
+3	72	3055	Doctolib	24.0
+3	72	2736	WikiTree	24.0
+2	48	4780	InfinityFree	24.0
+2	48	4618	Brax.Me	24.0
+3	72	639	mastodon.social	24.0
+2	48	177	Wikimedia	24.0
+2	48	1209	Ryver	24.0
+2	48	1826	Disroot	24.0
+2	48	1592	Crowdmark	24.0
+2	48	2617	Open Collective	24.0
+2	48	232	OpenStreetMap	24.0
+2	48	3964	Astronomer	24.0
+1	24	4418	TubeBuddy	24.0
+2	48	2426	The MOD Archive	24.0
+2	48	418	Startpage	24.0
+5	115	2702	Douban	23.0
+2	46	3137	BudgetBakers	23.0
+1	23	2648	Vidble	23.0
+2	46	3335	Realestate.com.au	23.0
+2	46	2756	Alzforum	23.0
+2	46	2256	Fandom	23.0
+2	46	159	craigslist	23.0
+2	46	4774	Simitless	23.0
+3	69	2356	YTMP3.CC	23.0
+2	46	2205	Adventurer's Codex	23.0
+1	23	4139	MIT App Inventor	23.0
+3	69	2544	El País	23.0
+3	69	207	Evernote	23.0
+4	92	2853	Profilic	23.0
+3	69	849	GOV.UK	23.0
+2	44	246	Kolab Now	22.0
+2	44	2669	AirVPN	22.0
+2	44	618	Genius	22.0
+1	22	4617	Flatmates	22.0
+1	22	2057	SparkNotes	22.0
+2	44	1577	Forbes	22.0
+1	22	3620	Open Source Initiative	22.0
+2	44	613	Doodle	22.0
+3	66	3536	Google Analytics	22.0
+3	66	641	Mullvad	22.0
+3	66	2370	Planio	22.0
+3	66	1557	23andMe	22.0
+3	66	2506	SmartNews	22.0
+2	44	2417	ControlC.com	22.0
+2	44	1731	Follow My Health	22.0
+3	63	4304	Ouigo	21.0
+3	63	2658	Metager	21.0
+3	63	3582	Weblate	21.0
+3	63	2310	Revolut	21.0
+3	63	167	Indiegogo	21.0
+4	84	2748	IVPN	21.0
+3	63	2866	VPN.AC	21.0
+4	84	411	Meetup	21.0
+2	42	3477	Poki	21.0
+2	42	1545	DiscourseHosting	21.0
+2	42	2002	Hacker Wars	21.0
+2	42	823	Wishlist	21.0
+2	42	1519	Open Humans	21.0
+2	42	2252	Taskade	21.0
+2	42	2848	BlueMail	21.0
+5	105	597	La Centrale	21.0
+3	60	2650	ThisNew	20.0
+1	20	5054	Yello	20.0
+2	40	4416	ePlus Technology	20.0
+2	40	2911	Free Software Foundation	20.0
+3	60	1543	Wordpress.com (Automattic)	20.0
+4	80	1733	420A3.com	20.0
+2	40	2568	NewPipe	20.0
+2	40	4062	KeyMe	20.0
+1	20	3684	Nulled	20.0
+2	40	3011	CollegeBoard	20.0
+2	40	2913	Nslookup	20.0
+1	20	3854	KidzSearch	20.0
+2	40	1703	IRecommend.ru	20.0
+3	60	2681	Eksi Sozluk	20.0
+1	20	4423	Gandi	20.0
+3	60	4512	Index Education	20.0
+6	120	624	Epic Games	20.0
+1	20	2734	Chinese Software Developer Network	20.0
+3	60	2242	Guerrilla Mail	20.0
+4	76	505	Canva	19.0
+6	114	157	Tutanota	19.0
+5	95	452	Ancestry & services	19.0
+5	95	300	Stack Exchange	19.0
+1	19	2131	Zapier	19.0
+1	19	222	DuckDuckGo	19.0
+1	19	1931	Cloze	19.0
+4	76	5113	Canvas	19.0
+1	19	5097	Gruppo Guarino	19.0
+2	38	1799	Venmo	19.0
+2	38	1796	LinusTechTips.com	19.0
+3	57	1433	ICANN	19.0
+3	57	806	Lichess	19.0
+3	57	4638	Diario AS	19.0
+2	38	3405	Chapril	19.0
+2	38	3540	RTS (Radio Télévision Suisse)	19.0
+1	19	320	Dictionary.com	19.0
+2	38	2036	Orchid VPN	19.0
+3	57	2677	Incog.host	19.0
+2	36	2050	Common Application	18.0
+2	36	2368	The Weather Channel	18.0
+1	18	5049	Team SDS	18.0
+3	54	216	salesforce	18.0
+3	54	3153	Météo France	18.0
+3	54	1358	Gab	18.0
+3	54	2773	Goose VPN	18.0
+2	36	2407	SecuriSend	18.0
+2	36	1443	Parsec	18.0
+2	36	2220	AnonAddy	18.0
+7	126	2230	BlackBoard	18.0
+2	36	2521	Valour	18.0
+1	18	2651	Trader Joe's	18.0
+4	72	733	XVideos	18.0
+1	18	2077	LibreOffice	18.0
+1	18	3085	Kalunga	18.0
+1	18	2191	EBSCO	18.0
+2	34	268	webSaver	17.0
+1	17	522	Wolfram Alpha	17.0
+2	34	2857	Steam China	17.0
+2	34	2844	Google Chrome	17.0
+4	68	1567	Plex	17.0
+4	68	4705	Free	17.0
+6	102	1737	Monzo	17.0
+2	34	328	Colloq.io	17.0
+2	34	236	IFTTT	17.0
+1	17	837	Netsyms Technologies	17.0
+5	85	435	NortonLifeLock	17.0
+2	34	2135	Byte	17.0
+7	119	2912	McAfee	17.0
+3	51	535	itch.io	17.0
+3	51	2806	Staples Inc	17.0
+1	17	682	Electronic Frontier Foundation	17.0
+1	17	1636	Internet Archive	17.0
+3	51	405	Feedly	17.0
+3	51	163	softpedia	17.0
+1	17	2264	nikitin.photo	17.0
+1	17	5581	Zones	17.0
+3	51	503	Visible	17.0
+2	32	282	500px	16.0
+2	32	3691	Neurococi	16.0
+2	32	2689	Chess.com	16.0
+2	32	2727	Okta	16.0
+2	32	1574	Dashlane	16.0
+2	32	4208	Synonymo	16.0
+2	32	5256	ente.io	16.0
+2	32	241	XING	16.0
+2	32	2225	Phone2Action	16.0
+2	32	2679	Podyssey Podcasts	16.0
+2	32	740	JetBrains	16.0
+4	64	2868	Outfit7	16.0
+3	48	2431	Cash App	16.0
+2	32	2219	RUNALYZE	16.0
+3	48	2733	Netease Cloud Music	16.0
+3	48	2964	European Commission	16.0
+3	48	156	Gravatar	16.0
+1	16	3599	Techlore	16.0
+4	64	719	npm	16.0
+4	64	2240	ByGabyArdigo	16.0
+1	16	1024	1800Mattress.com	16.0
+1	16	3996	FreeTube	16.0
+3	45	3614	Yuka	15.0
+3	45	455	The Guardian	15.0
+2	30	4068	ExploreLearning	15.0
+3	45	2116	Standard Notes	15.0
+3	45	2571	Windscribe	15.0
+3	45	1723	Alignable	15.0
+2	30	1877	Pepper&Carrot	15.0
+3	45	427	Virgin	15.0
+1	15	3273	Surface Owl	15.0
+2	30	5494	HackenProof	15.0
+1	15	1941	Wikiwand	15.0
+2	30	1439	remove.bg	15.0
+2	30	1173	Newegg.com	15.0
+2	30	4721	Inubook	15.0
+3	45	1750	Vox	15.0
+1	15	1039	iStudiez	15.0
+3	45	316	CNet	15.0
+1	15	2432	Mojeek	15.0
+1	15	2016	The Button Box	15.0
+1	15	3223	CurseForge	15.0
+2	30	3802	Waterfox	15.0
+1	15	2030	Bose	15.0
+4	60	2743	TorGuard	15.0
+7	105	1386	OpenWeatherMap	15.0
+4	60	3131	Electronic Arts	15.0
+6	90	1787	WebMD	15.0
+2	28	302	Indeed	14.0
+2	28	2474	Reuters	14.0
+2	28	969	ToS;DR Phoenix	14.0
+2	28	2413	Padlet	14.0
+2	28	2381	Neurohr Bytes Software	14.0
+2	28	2499	France Université Numérique	14.0
+2	28	821	WaniKani	14.0
+2	28	2948	VPNHub	14.0
+1	14	2266	Hacking with Swift	14.0
+2	28	2875	e-foundation	14.0
+2	28	5050	Career Fair Plus	14.0
+2	28	586	Tapas	14.0
+1	14	247	LibraryThing	14.0
+3	42	3878	Starbase 118	14.0
+1	14	329	EteSync	14.0
+3	42	3465	Cleanfox	14.0
+3	42	847	idka	14.0
+1	14	4105	Photopea	14.0
+1	14	5056	American Red Cross	14.0
+1	14	2061	Yubico	14.0
+2	28	796	Iron Horse Games	14.0
+1	14	1727	Overleaf	14.0
+2	26	2954	Fakespot	13.0
+2	26	3930	Code.org	13.0
+2	26	604	Musik-Sammler	13.0
+2	26	1867	Kuketz-Forum	13.0
+2	26	323	Zillow	13.0
+2	26	3934	Hero	13.0
+2	26	2178	Neocities	13.0
+2	26	2123	ActBlue	13.0
+2	26	2893	Rovio	13.0
+2	26	2870	USSeek	13.0
+1	13	1426	La Girafe Extraordinaire	13.0
+6	78	2423	Weasyl	13.0
+2	26	2983	MOBY Group	13.0
+1	13	2901	Talking Tom and Friends	13.0
+2	26	4549	MKComputing	13.0
+2	26	2319	Codewars	13.0
+2	26	2584	CryptPad	13.0
+4	52	2712	IPVanish	13.0
+7	91	4623	Curve	13.0
+3	39	253	last.fm	13.0
+1	13	3607	EDRi	13.0
+1	13	1959	NextDNS	13.0
+2	26	729	Royal Society of Chemistry	13.0
+3	39	636	Hacker News	13.0
+2	26	344	Fotocommunity	13.0
+3	39	5420	Monkeytype	13.0
+2	26	1675	HP-67	13.0
+2	26	3751	Vault.ooo	13.0
+2	26	3688	Njalla	13.0
+4	48	2311	Ruqqus	12.0
+3	36	1951	YouTube Kids	12.0
+1	12	1832	osu!	12.0
+1	12	2309	lib.reviews	12.0
+1	12	728	Pixiv	12.0
+3	36	3985	myFRITZ!	12.0
+2	24	3629	Threema Work	12.0
+1	12	2303	Spark for Appraisers	12.0
+1	12	1387	Nabu Casa	12.0
+2	24	2213	Pillowfort	12.0
+1	12	1346	ICS / Masjid Tucson	12.0
+3	36	380	ResearchGate	12.0
+2	24	3680	Clue	12.0
+3	36	811	Humble Bundle	12.0
+4	48	3187	Web of Trust	12.0
+2	24	1831	Speaky	12.0
+2	24	169	phpBB	12.0
+2	24	2397	Genshin Impact	12.0
+2	24	2558	Calyx Institute	12.0
+2	24	5065	CITI Program	12.0
+2	24	4447	Linguee	12.0
+1	12	2973	Swisscows	12.0
+3	36	3577	Spark Mail	12.0
+2	22	2358	Women Also Know Stuff	11.0
+2	22	803	City of Reading	11.0
+3	33	3145	Cinemax	11.0
+3	33	2069	Dribbble	11.0
+4	44	2043	e621/e926	11.0
+2	22	2671	HideMe VPN	11.0
+3	33	2041	Whereby	11.0
+3	33	2768	Unity	11.0
+2	22	2738	EthanMcBloxxer	11.0
+2	22	3470	CoolMathGames	11.0
+2	22	1022	WhatIsMyIP.com	11.0
+2	22	1866	InfoSec Handbook	11.0
+2	22	3621	Swisspass	11.0
+2	22	292	Habbo	11.0
+4	44	438	mondosol	11.0
+2	22	5222	Sweatcoin	11.0
+1	11	1442	Mason Bee	11.0
+1	11	1709	Wizards of the Coast	11.0
+1	11	2396	RightsStatements	11.0
+1	11	2705	Weatheralex1 Hub	11.0
+2	22	1886	VirusTotal	11.0
+1	11	2414	Auttaja	11.0
+1	11	5064	eintelligenceoutreach.com	11.0
+2	22	3623	Glympse	11.0
+1	11	2541	El Mundo (El Salvador)	11.0
+2	22	3436	Magic Earth	11.0
+1	11	1960	FullContact	11.0
+1	11	2228	MuseScore	11.0
+2	22	205	RapidShare	11.0
+2	22	2364	Red Pocket	11.0
+2	22	2395	PriceCharting	11.0
+1	10	3615	Signal Stickers	10.0
+1	10	2978	CTemplar	10.0
+2	20	1572	1Password	10.0
+4	40	3840	ADHD Boss	10.0
+3	30	578	Ubuntu	10.0
+1	10	820	Web & SEO Designers	10.0
+1	10	1027	f.lux	10.0
+4	40	473	FC2	10.0
+4	40	243	Etsy	10.0
+2	20	1355	Kitsu	10.0
+6	60	870	Baidu	10.0
+1	10	3481	Smart Survey Work	10.0
+2	20	191	MeMail	10.0
+1	10	3804	KeePassXC	10.0
+1	10	1678	Evaneos	10.0
+1	10	3395	OpenHAB	10.0
+2	20	3185	Owl Mail	10.0
+2	20	5661	Blooket	10.0
+2	20	2557	TourOfCalifornia.org	10.0
+2	20	1431	Open Trade Statistics	10.0
+2	20	2896	Dhaka Tribune	10.0
+3	30	2735	The Society for German Genealogy in Eastern Europe	10.0
+2	20	2129	Gladly	10.0
+2	20	3424	Swissinfo	10.0
+2	20	2472	PortableApps	10.0
+3	30	2678	Infomaniak	10.0
+3	30	1586	Cengage	10.0
+3	30	2210	Pastebin	10.0
+3	30	676	Tweakers	10.0
+3	30	2362	Tadata	10.0
+2	20	2259	Perfect Privacy VPN	10.0
+1	10	1944	PsychonautWiki	10.0
+2	20	2880	CryptoKitties	10.0
+2	20	4159	Mozilla VPN	10.0
+2	20	2516	Deezer	10.0
+2	20	1445	PythonAnywhere	10.0
+2	20	3663	Science News	10.0
+2	18	3657	Top GG	9.0
+2	18	1524	Newgrounds	9.0
+6	54	2508	Yagpdb	9.0
+5	45	2623	Canadian Broadcasting Corporation	9.0
+3	27	2693	Paradox Interactive	9.0
+2	18	702	RationalWiki	9.0
+1	9	484	Let's Encrypt	9.0
+2	18	2512	Trakt	9.0
+2	18	3429	Omegle	9.0
+2	18	1704	Отзовик	9.0
+4	36	1958	Pocket Casts	9.0
+2	18	3693	OnlyFans	9.0
+1	9	5196	Max Kohler Visual Communication	9.0
+2	18	1627	iNaturalist	9.0
+7	63	2684	Mapillary	9.0
+2	18	5223	ActivityTracker	9.0
+2	18	3437	Zhihu	9.0
+3	27	600	WindowsLogic Productions	9.0
+2	18	1379	Brain.fm	9.0
+1	9	1569	Feedbin	9.0
+3	27	3995	Overwolf	9.0
+3	27	3370	Codeberg	9.0
+1	9	1869	zmudzinski.me Personal Blog	9.0
+2	18	1952	Flight Rising	9.0
+1	9	3231	blue-archive	9.0
+3	27	209	coursera	9.0
+3	27	913	Whirlpool	9.0
+2	18	4504	PILI	9.0
+1	9	1629	Honey	9.0
+1	9	2979	StartMail	9.0
+1	9	2355	Empreintes.online	9.0
+1	9	2212	Anonfiles	9.0
+1	9	3475	DAVx⁵	9.0
+4	36	228	Dell	9.0
+4	36	2434	Job Accomodation Network	9.0
+3	27	4130	Bleeping Computer	9.0
+2	18	589	FWG 1240	9.0
+1	8	810	E-Poll Surveys	8.0
+2	16	1746	Pixelfed	8.0
+2	16	3086	Darebee	8.0
+2	16	3114	Trashmail	8.0
+2	16	4690	codejunkies	8.0
+2	16	748	JSTOR	8.0
+2	16	2261	Python Tutor	8.0
+2	16	2907	Affinity	8.0
+2	16	3622	TWINT	8.0
+1	8	2182	F-Droid	8.0
+1	8	3365	Mozilla Thunderbird	8.0
+1	8	4076	Aegis Authenticator	8.0
+2	16	3633	AddToAny	8.0
+2	16	2505	Iziram	8.0
+2	16	848	getrentback	8.0
+2	16	3616	SocialPass	8.0
+7	56	2620	McGraw-Hill Education	8.0
+2	16	1676	repl.it	8.0
+2	16	3005	Lofter	8.0
+4	32	2455	matrix.org	8.0
+2	16	3786	Skatedeluxe	8.0
+1	8	1700	Ruhrtalradweg.de	8.0
+7	56	2940	Vultr	8.0
+1	8	201	greenisbetter	8.0
+3	24	2944	Bullet VPN	8.0
+6	48	1462	GOG.com	8.0
+3	24	1790	Bible Gateway	8.0
+1	8	4102	YogaDNS	8.0
+3	24	263	Boingo	8.0
+4	32	3194	Qualified.com	8.0
+3	24	341	OLX	8.0
+3	24	4136	Entrust	8.0
+4	32	2052	Path of Exile	8.0
+4	32	2420	Ripe NCC	8.0
+3	24	2908	Oxfam	8.0
+1	8	1802	ctrlaltdev	8.0
+1	8	2138	Tidal	8.0
+1	8	2032	The Verge	8.0
+1	8	4696	JulMan	8.0
+1	8	2751	SaferVPN	8.0
+1	8	3456	Tampermonkey	8.0
+1	8	4898	Data Secrets	8.0
+1	8	3092	Watson	8.0
+3	24	1717	moovweb	8.0
+1	8	3095	Anchor	8.0
+2	14	2556	MCProHosting	7.0
+2	14	3892	bplaced	7.0
+2	14	1701	Crowdin	7.0
+1	7	4814	CraftBru	7.0
+21	147	1559	HERE Technologies | HERE	7.0
+2	14	2443	Listia	7.0
+2	14	3343	PrivacyWall	7.0
+2	14	3310	StrawPoll	7.0
+2	14	2265	Totem Project	7.0
+1	7	3388	SchildiChat	7.0
+1	7	590	Slither.io	7.0
+2	14	2470	BECU	7.0
+2	14	713	Open Book Publishers	7.0
+1	7	4879	SHOPX	7.0
+2	14	4565	Vorwerk Thermomix	7.0
+1	7	1948	Ali Reza Hayati's Personal Page	7.0
+1	7	5107	GDLauncher	7.0
+1	7	1956	University of South Florida	7.0
+1	7	330	SeenThis	7.0
+1	7	2223	bol-d-air.net	7.0
+1	7	5253	Paul Schroer - Photographer	7.0
+1	7	2193	Pirate Party Australia	7.0
+1	7	4151	My Live Signature	7.0
+7	49	3186	VIZIO	7.0
+1	7	863	Skribbl.io	7.0
+4	28	736	MusicBrainz	7.0
+2	14	3285	YouPorn	7.0
+3	21	3386	Barinsta	7.0
+2	14	5215	Pacer	7.0
+2	14	608	Setlisting	7.0
+6	42	2776	AdGuard Software Limited	7.0
+1	7	1605	Yakka	7.0
+1	7	3212	Pronatura Switzerland	7.0
+1	7	592	Campus Innovations Kultur	7.0
+1	7	4411	TechByte Net	7.0
+1	7	4148	Notesnook	7.0
+3	21	2577	Sony	7.0
+2	14	1702	Ko-fi	7.0
+3	21	3123	search.ch	7.0
+2	14	3625	KDE	7.0
+3	21	683	DnD5e.info	7.0
+2	14	1497	Moddb.com	7.0
+2	14	5376	SplashLearn	7.0
+2	14	3199	Inoreader	7.0
+2	14	3006	Sudomemo	7.0
+2	14	4470	Earth 2	7.0
+4	24	464	Square	6.0
+3	18	362	Kickstarter	6.0
+3	18	3148	Tribune Publishing	6.0
+3	18	2667	Desmos	6.0
+1	6	5053	Sandia National Labs	6.0
+3	18	2621	CommonLit	6.0
+3	18	2559	Briar	6.0
+3	18	336	Fitbit	6.0
+1	6	709	Tartle	6.0
+3	18	2706	tawk.to	6.0
+3	18	4812	metroradio.com.hk	6.0
+4	24	2652	GrubHub	6.0
+4	24	1367	Webtoon (Naver/Line)	6.0
+9	54	2699	HubSpot	6.0
+1	6	2790	Commune de Val-de-Ruz	6.0
+1	6	3010	The Church Factory	6.0
+1	6	3058	Picclick	6.0
+1	6	1715	MiiCharacters	6.0
+1	6	3355	jamesbush.dev	6.0
+4	24	1611	HQ	6.0
+1	6	1707	Магазин фетра (KukiRuki.ru)	6.0
+3	18	3225	mail.ch	6.0
+2	12	3928	CoinGecko	6.0
+2	12	2741	Bloomberg L. P.	6.0
+2	12	1518	Thumbzilla	6.0
+1	6	532	The Hello World Collection	6.0
+2	12	1680	Shmoop	6.0
+1	6	2250	Timac	6.0
+3	18	2402	Zendesk	6.0
+1	6	635	OsmAnd	6.0
+2	12	4232	iHeartRadio	6.0
+2	12	3939	Panda Security	6.0
+2	12	2398	Huge Miniatures	6.0
+2	12	286	Sonic.net	6.0
+2	12	4051	Tunefind	6.0
+2	12	451	EasyNews	6.0
+1	6	2374	Wigwam Design	6.0
+2	12	2070	Houzz	6.0
+2	12	2500	Wikidot	6.0
+2	12	4106	ITV	6.0
+2	12	1730	Ballotpedia	6.0
+2	12	2562	Asus	6.0
+2	12	4254	markiemm.com	6.0
+2	12	1538	Free Steam Keys	6.0
+2	12	2897	Ready Player Me	6.0
+2	10	1552	FAKKU	5.0
+7	35	2686	Proctorio	5.0
+1	5	3422	Conversations	5.0
+11	55	1566	Intercom	5.0
+2	10	2258	Qubes OS	5.0
+4	20	1950	Chegg	5.0
+1	5	1940	Sanctioned Suicide	5.0
+4	20	2059	The Session	5.0
+4	20	1601	Chilliapps - Abandonment Protector	5.0
+4	20	361	EVE Online	5.0
+4	20	2260	Nitrokey	5.0
+1	5	5670	congresse.me	5.0
+1	5	4811	Kuaikan	5.0
+1	5	1455	Pole-Emotion	5.0
+2	10	299	BeWelcome	5.0
+2	10	4908	Technote	5.0
+1	5	3434	Dark Reader	5.0
+1	5	1719	Gemotest	5.0
+1	5	4077	Fritter	5.0
+1	5	3453	12306	5.0
+1	5	178	fightforthefuture.org	5.0
+1	5	261	LiveJournal	5.0
+1	5	684	Email.cz	5.0
+1	5	3955	VormWeb	5.0
+1	5	757	Apple Media Services	5.0
+2	10	3209	SCP Wiki	5.0
+3	15	2411	Layers of London	5.0
+1	5	3580	Yleisradio	5.0
+1	5	3462	Scranton Pocono Amateur Radio Klub (SPARK) and N3UVR's Backyard Weather Station	5.0
+1	5	844	Bits of Freedom	5.0
+3	15	2858	NewsGuard	5.0
+2	10	2800	UTunnel VPN	5.0
+3	15	2851	Bitcoin Project	5.0
+3	15	1728	MRichard333	5.0
+2	10	283	Hypster	5.0
+3	15	4129	Cyren	5.0
+3	15	2760	Manjaro Linux	5.0
+2	10	2406	Photofeeler	5.0
+3	15	425	Travelzoo	5.0
+2	10	4203	Login Lockdown	5.0
+2	10	1891	Doublelist	5.0
+3	15	1809	Custom Ink	5.0
+3	15	3940	Softonic	5.0
+1	5	581	Seznam.cz	5.0
+2	10	2400	Flipgrid	5.0
+2	10	4078	Open Camera	5.0
+2	10	4096	noice.link	5.0
+1	5	2241	Join Run	5.0
+2	10	3155	Baidu Tieba	5.0
+2	10	310	Splice	5.0
+2	10	2255	Gosuslugi Esia	5.0
+2	10	5621	THe Calm Sleep	5.0
+2	10	846	Crunchyroll	5.0
+2	10	1550	Gamepedia	5.0
+2	10	1824	Mycroft AI	5.0
+2	10	326	Blogspot	5.0
+2	10	210	QuickBooks	5.0
+1	4	4133	Summer of HYPERlocal	4.0
+1	4	754	KalóriaBázis	4.0
+1	4	1460	Chaos Computer Club	4.0
+1	4	1734	devsoap	4.0
+1	4	2675	Backloggd	4.0
+1	4	1345	Marco Polo	4.0
+1	4	2972	FairVote	4.0
+1	4	3097	Amnesty International Swizerland	4.0
+3	12	3197	AudiobookSTORE.com	4.0
+1	4	2034	FOK!	4.0
+1	4	3579	ShareX	4.0
+3	12	4338	Universal Music Group	4.0
+3	12	1466	Miraheze	4.0
+3	12	1625	Goguardian	4.0
+3	12	3464	NiMO TV	4.0
+2	8	1708	JonHosting	4.0
+1	4	430	Bold Type Tickets	4.0
+1	4	3387	OpenTracks	4.0
+2	8	2916	Delivery.com	4.0
+1	4	2226	Fosstodon	4.0
+8	32	1508	TechSmith (Subsidiaries)	4.0
+2	8	3539	mail.com	4.0
+2	8	3188	BYUtv	4.0
+1	4	1894	Human Rights Foundation	4.0
+1	4	2257	Moscow information cluster	4.0
+2	8	1798	Loot Crate	4.0
+5	20	4678	IObit	4.0
+5	20	2628	Ocado	4.0
+2	8	1342	Blender Market	4.0
+2	8	2128	Uncrowned Empire	4.0
+2	8	634	Bumble	4.0
+2	8	166	Nabble	4.0
+2	8	2754	Symplicity	4.0
+2	8	688	NRC	4.0
+2	8	2943	Udemy	4.0
+1	4	3601	Skroutz	4.0
+1	4	2927	Personal Capital	4.0
+1	4	4802	Craft	4.0
+1	4	2046	Save Our Bank	4.0
+2	8	2882	Wesfarmers	4.0
+1	3	1621	Read the Docs Community	3.0
+1	3	873	MapQuest	3.0
+1	3	1875	blogtrottr	3.0
+1	3	1496	loom	3.0
+1	3	755	Dominion Energy	3.0
+1	3	2889	OpenTTD	3.0
+1	3	3478	Quran.com	3.0
+1	3	829	Avaaz	3.0
+1	3	4124	The Social Dilemma	3.0
+1	3	2203	Poker-Engine	3.0
+1	3	4548	AnoniCloud	3.0
+1	3	1476	WantToKnow.nl/.be	3.0
+2	6	298	experteer	3.0
+1	3	5322	State of Illinois	3.0
+1	3	486	Abine Blur	3.0
+2	6	627	Werk32.NET	3.0
+1	3	2874	Brubank	3.0
+1	3	2211	Krunker.io	3.0
+2	6	3328	Boursorama	3.0
+1	3	2845	Tor Browser	3.0
+3	9	2013	JonTV	3.0
+3	9	1870	Snopes	3.0
+5	15	856	Zoho	3.0
+1	3	1383	Yr.no	3.0
+1	3	2020	Sip Read Repeat	3.0
+1	3	5195	Neurodiversity in Albertopolis	3.0
+1	3	1359	UK Fluids Network	3.0
+1	3	1599	offtopical.net Podcast	3.0
+1	3	4819	MathFlare	3.0
+1	3	4598	simonoh.me	3.0
+1	3	5057	TravelAlaska.com	3.0
+2	6	2307	3DHYPE	3.0
+2	6	3315	Innersloth (Among Us)	3.0
+1	3	1610	gmx	3.0
+3	9	2707	AstrillVPN	3.0
+4	12	2730	Elasticsearch	3.0
+2	6	2422	Kairos Software	3.0
+2	6	2801	Smith Brothers Farms	3.0
+2	6	1540	Harper Macaw Shop	3.0
+2	6	5559	NGA	3.0
+2	6	2750	WorldVPN	3.0
+2	6	4156	QFX Software	3.0
+2	6	833	FrontendMasters	3.0
+2	6	5051	Universal Minecraft Converter	3.0
+2	6	3184	Later.com	3.0
+2	6	1603	OpenWrt Forum	3.0
+3	9	2269	Paper.li	3.0
+2	6	3624	K-9 Mail	3.0
+2	6	5058	invited.tv	3.0
+7	21	869	Nintendo	3.0
+2	6	594	Threema	3.0
+3	9	2852	Ethereum	3.0
+5	15	2673	StrongVPN	3.0
+4	12	2936	Paris Elysees	3.0
+1	3	3925	BryceWray.com	3.0
+3	9	2221	Media Markt	3.0
+4	12	266	Zoosk	3.0
+2	6	5556	The American Sweepstakes	3.0
+2	6	1639	4chan	3.0
+2	6	2181	Tolino	3.0
+5	15	2700	Ring LLC	3.0
+4	12	2890	People For the Ethical Treatment of Animals	3.0
+2	4	2881	Our World In Data	2.0
+1	2	1384	Akamai	2.0
+1	2	1616	Deliberative Entertainment	2.0
+1	2	2179	couchblog	2.0
+1	2	1596	PeerTube	2.0
+1	2	690	SantsTV	2.0
+1	2	1517	mailbox.org	2.0
+1	2	2139	Priority Matrix	2.0
+1	2	2140	LauraKalbag	2.0
+1	2	2038	Auberge du Jeu	2.0
+1	2	5365	BitBoy Crypto	2.0
+1	2	3106	ch.ch	2.0
+1	2	3461	SpeedsterOwners.com	2.0
+1	2	2215	CockFile	2.0
+1	2	2421	King James Bible App	2.0
+1	2	1207	Privacy International	2.0
+1	2	1800	Minetest Forums	2.0
+1	2	2981	OVPN	2.0
+5	10	374	BitTorrent	2.0
+1	2	4909	NOMOROBO	2.0
+2	4	2627	Nelink	2.0
+2	4	453	King Digital Entertainment (Candy Crush)	2.0
+1	2	2243	Temp Mail	2.0
+1	2	2306	Scientology	2.0
+1	2	858	Clicksco	2.0
+1	2	1689	Algolia	2.0
+1	2	1937	Salesmate	2.0
+1	2	830	Famileo	2.0
+2	4	4607	CIRRANTiC	2.0
+1	2	695	BillPay	2.0
+1	2	1493	KJVPCE	2.0
+2	4	2004	Code Combat	2.0
+2	4	2367	PictureThis	2.0
+2	4	515	CloudSight	2.0
+3	6	394	Jobvite	2.0
+8	16	296	ello	2.0
+3	6	3450	MYKI	2.0
+3	6	633	Ockom	2.0
+3	6	1939	State Farm	2.0
+3	6	436	Australian Broadcasting Corporation	2.0
+2	4	2473	U.S. Department of Justice	2.0
+3	6	3764	Pennsylvania State University	2.0
+7	14	454	canary	2.0
+2	4	2459	Nebula	2.0
+2	4	4125	TechBlogCorner	2.0
+2	4	172	Diasporg	2.0
+4	8	1626	Lydia	2.0
+2	4	4100	Overclock.net	2.0
+2	4	3077	Buffalo 7	2.0
+2	4	1576	Intuitive Password	2.0
+2	4	2891	ArchWiki	2.0
+2	4	2867	Binance	2.0
+2	4	1573	RoboForm	2.0
+2	4	4135	Verisign	2.0
+2	4	3069	Lulu	2.0
+2	4	1467	ShoutWiki	2.0
+2	4	725	StoreMoreStore	2.0
+2	4	2682	Stairway Learning	2.0
+2	4	2063	Ritual	2.0
+2	4	2729	Red Ventures	2.0
+2	4	1876	pinboard	2.0
+2	4	3679	Z-Library	2.0
+1	1	1623	Attain By Aetna	1.0
+3	3	1378	VIRTBIZ	1.0
+1	1	3924	Niklas reviews	1.0
+1	1	2450	pagecdn	1.0
+1	1	1600	Wugtodon	1.0
+1	1	4604	Digital Photography Review	1.0
+1	1	4586	NOS	1.0
+1	1	749	AlternativeTo	1.0
+2	2	2209	Beacon CRM	1.0
+1	1	1602	Rainforest Alliance	1.0
+1	1	2387	Banned.Video	1.0
+1	1	814	Do C's Get Degrees (discontinued?)	1.0
+1	1	3290	Poshmark	1.0
+1	1	4540	Università Commerciale Luigi Bocconi	1.0
+1	1	2233	mailin.vote	1.0
+1	1	675	Historielærer.dk	1.0
+1	1	2184	wes.today blog	1.0
+1	1	1686	Bethesda	1.0
+1	1	1006	witches.live mastodon	1.0
+8	8	3109	Spankbang	1.0
+6	6	2572	HP | Hewlett-Packard	1.0
+3	3	1562	DIY Tube Video Community	1.0
+2	2	5424	Xavio	1.0
+2	2	2662	S-Config	1.0
+2	2	3676	Segment (Twilio)	1.0
+2	2	1505	eBird	1.0
+2	2	711	Honeypot	1.0
+2	2	516	Warner Bros	1.0
+2	2	3101	Cookie-Script.com	1.0
+4	4	2633	Ufile	1.0
+1	1	583	Skycloud	1.0
+2	2	1440	Any.do	1.0
+2	2	1641	Clyp	1.0
+2	2	2388	Criptext	1.0
+3	3	2384	Oculus	1.0
+5	5	2197	The Omni Group	1.0
+1	1	4553	Bushwick Ayuda Mutua	1.0
