@@ -1,0 +1,433 @@
+Source.Name,sent,point_id,point_text,match_score,point_title,flag
+match_233.csv,GitHub Docs Explore by product GitHub.com GitHub.com Enterprise Administrators GitHub Discussions GitHub Actions GitHub Packages Developers REST API GraphQL API GitHub Insights Education GitHub Desktop GitHub CLI Atom Electron English English ???? (Simplified Chinese) ??? (Japanese) Español (Spanish) Português do Brasil (Portuguese) GitHub.com Site policy GitHub Terms of Service GitHub Terms of Service In this article  Summary The GitHub Terms of Service A. Definitions B.,,,,,
+match_233.csv,Account Terms C. Acceptable Use D. User-Generated Content E. Private Repositories F. Copyright Infringement and DMCA Policy G. Intellectual Property Notice H. API Terms I. GitHub Additional Product Terms J.,,,,,
+match_233.csv,Beta Previews K. Payment L. Cancellation and Termination M. Communications with GitHub N. Disclaimer of Warranties O.,,,,,
+match_233.csv,Limitation of Liability P. Release and Indemnification Q.,,,,,
+match_233.csv,Changes to These Terms R. Miscellaneous  Thank you for using GitHub!,,,,,
+match_233.csv,Please read this Terms of Service agreement carefully before accessing or using GitHub.,,,,,
+match_233.csv,"Because it is such an important contract between us and our users, we have tried to make it as clear as possible.",,,,,
+match_233.csv,"For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.",,,,,
+match_233.csv,Summary SectionWhat can you find there?A.,,,,,
+match_233.csv,"DefinitionsSome basic terms, defined in a way that will help you understand this agreement.",,,,,
+match_233.csv,Refer back up to this section for clarification.B.,,,,,
+match_233.csv,Account TermsThese are the basic requirements of having an Account on GitHub.C.,,,,,
+match_233.csv,Acceptable UseThese are the basic rules you must follow when using your GitHub Account.D.,,,,,
+match_233.csv,User-Generated ContentYou own the content you post on GitHub.,,,,,
+match_233.csv,"However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you.E.",,,,,
+match_233.csv,Private RepositoriesThis section talks about how GitHub will treat content you post in private repositories.F.,,,,,
+match_233.csv,DMCA PolicyThis section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub.G.,,,,,
+match_233.csv,Intellectual Property NoticeThis describes GitHub's rights in the website and service.H.,,,,,
+match_233.csv,"API TermsThese are the rules for using GitHub's APIs, whether you are using the API for development or data collection.I.",,,,,
+match_233.csv,Additional Product TermsWe have a few specific rules for GitHub's features and products.J.,,,,,
+match_233.csv,Beta PreviewsThese are some of the additional terms that apply to GitHub's features that are still in development.K.,,,,,
+match_233.csv,PaymentYou are responsible for payment.,,,,,
+match_233.csv,We are responsible for billing you accurately.L.,,,,,
+match_233.csv,Cancellation and TerminationYou may cancel this agreement and close your Account at any time.M.,,,,,
+match_233.csv,Communications with GitHubWe only use email and other electronic means to stay in touch with our users.,,,,,
+match_233.csv,We do not provide phone support.N.,,,,,
+match_233.csv,"Disclaimer of WarrantiesWe provide our service as is, and we make no promises or guarantees about this service.",,,,,
+match_233.csv,Please read this section carefully.,,,,,
+match_233.csv,you should understand what to expect.O.,,,,,
+match_233.csv,Limitation of LiabilityWe will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement.,,,,,
+match_233.csv,Please read this section carefully.,,,,,
+match_233.csv,it limits our obligations to you.P.,,,,,
+match_233.csv,Release and IndemnificationYou are fully responsible for your use of the service.Q.,,,,,
+match_233.csv,"We may modify this agreement, but we will give you 30 days' notice of material changes.",670,"We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights
+        ",77,"When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+match_233.csv,MiscellaneousPlease see this section for legal details including our choice of law.,,,,,
+match_233.csv,"The GitHub Terms of Service Effective date: November 16, 2020 A. Definitions  Short version: We use these basic terms throughout the agreement, and they have specific meanings.",,,,,
+match_233.csv,You should know what we mean when we use each of the terms.,,,,,
+match_233.csv,"There's not going to be a test on it, but it's still useful information.",,,,,
+match_233.csv,"""An """"Account"""" represents your legal relationship with GitHub.""",,,,,
+match_233.csv,A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub.,,,,,
+match_233.csv,“Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once.,,,,,
+match_233.csv,A User Account can be a member of any number of Organizations.,,,,,
+match_233.csv,"""The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the """"Terms"""") and all other operating rules, policies (including the GitHub Privacy Statement, available at github.com/site/privacy) and procedures that we may publish from time to time on the Website.""",,,,,
+match_233.csv,Most of our site policies are available at docs.github.com/categories/site-policy.,,,,,
+match_233.csv,"""""""Beta Previews"""" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.""",,,,,
+match_233.csv,"“Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service.",,,,,
+match_233.csv,"“User-Generated Content” is Content, written or otherwise, created or uploaded by our Users.",,,,,
+match_233.csv,"""""""Your Content"""" is Content that you create or own.""",,,,,
+match_233.csv,"“GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.",,,,,
+match_233.csv,"The “Service” refers to the applications, software, products, and services provided by GitHub, including any Beta Previews.",,,,,
+match_233.csv,"“The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service.",,,,,
+match_233.csv,that accesses or uses any part of the Account.,,,,,
+match_233.csv,or that directs the use of the Account in the performance of its functions.,,,,,
+match_233.csv,A User must be at least 13 years of age.,,,,,
+match_233.csv,Special terms may apply for business or government Accounts (See Section B(5): Additional Terms).,,,,,
+match_233.csv,"The “Website” refers to GitHub’s website located at github.com, and all content, services, and products provided by GitHub at or through the Website.",,,,,
+match_233.csv,"It also refers to GitHub-owned subdomains of github.com, such as education.github.com and pages.github.com.",,,,,
+match_233.csv,"These Terms also govern GitHub’s conference websites, such as githubuniverse.com, and product websites, such as atom.io.",,,,,
+match_233.csv,"Occasionally, websites owned by GitHub may provide different or additional terms of service.",,,,,
+match_233.csv,"If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.",,,,,
+match_233.csv,Account Terms  Short version: User Accounts and Organizations have different administrative controls.,,,,,
+match_233.csv,a human must create your Account.,,,,,
+match_233.csv,you must be 13 or over.,,,,,
+match_233.csv,you must provide a valid email address.,,,,,
+match_233.csv,and you may not have more than one free Account.,8863,you may not have more than one free Account,100,,
+match_233.csv,You alone are responsible for your Account and anything that happens while you are signed in to or using your Account.,14058,"You alone are responsible for your Account and anything that happens while you are signed in to or using your Account.
+You are responsible for keeping your Account secure.",100,,
+match_233.csv,You are responsible for keeping your Account secure.,14058,"You alone are responsible for your Account and anything that happens while you are signed in to or using your Account.
+You are responsible for keeping your Account secure.",100,,
+match_233.csv,"Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.",,,,,
+match_233.csv,"""The """"owner"""" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it.""",,,,,
+match_233.csv,"Within the Service, an owner can manage User access to the Organization’s data and projects.",,,,,
+match_233.csv,"An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization.",,,,,
+match_233.csv,"If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.",,,,,
+match_233.csv,Required Information You must provide a valid email address in order to complete the signup process.,,,,,
+match_233.csv,"Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid Account, in which case additional information will be necessary for billing purposes.",883,"Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid Account, in which case additional information will be necessary for billing purposes.",100,,
+match_233.csv,Account Requirements We have a few simple rules for User Accounts on GitHub's Service.,,,,,
+match_233.csv,You must be a human to create an Account.,,,,,
+match_233.csv,"""Accounts registered by """"bots"""" or other automated methods are not permitted.""",,,,,
+match_233.csv,"We do permit machine accounts: A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions.",,,,,
+match_233.csv,A machine account is used exclusively for performing automated tasks.,,,,,
+match_233.csv,"Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions.",,,,,
+match_233.csv,You may maintain no more than one free machine account in addition to your free User Account.,,,,,
+match_233.csv,"One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).",,,,,
+match_233.csv,You are responsible for maintaining the security of your Account and password.,14059,"You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.",100,,
+match_233.csv,GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.,14059,"You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.",100,,
+match_233.csv,"You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.",14059,"You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You will promptly notify GitHub if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.",100,,
+match_233.csv,"You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.",14061,"You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.
+This license includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+        ",100,,
+match_233.csv,"If you are a resident of a country outside the United States, your country’s minimum age may be older.",,,,,
+match_233.csv,"in such a case, you are responsible for complying with your country’s laws.",,,,,
+match_233.csv,"Your login may only be used by one person — i.e., a single login may not be shared by multiple people.",,,,,
+match_233.csv,A paid Organization may only provide access to as many User Accounts as your subscription allows.,,,,,
+match_233.csv,You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction.,,,,,
+match_233.csv,You may not use GitHub if you are or are working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.,,,,,
+match_233.csv,GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.,,,,,
+match_233.csv,"For more information, please see our Export Controls policy.",,,,,
+match_233.csv,User Account Security You are responsible for keeping your Account secure while you use our Service.,,,,,
+match_233.csv,"We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.",5972,"We offer tools such as two-factor authentication to help you maintain your Account's security
+        ",93,Two factor authentication is provided for your account,
+match_233.csv,You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).,,,,,
+match_233.csv,This license includes the right to do things like copy it to our database and make backups.,14061,"You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.
+This license includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+        ",100,,
+match_233.csv,"If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via our convenient DMCA form or by emailing copyright@github.com.",14063,"If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy.
+If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via our convenient DMCA form or by emailing copyright@github.com.
+There may be legal consequences for sending a false or frivolous takedown notice.
+Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.",100,,
+match_233.csv,There may be legal consequences for sending a false or frivolous takedown notice.,14063,"If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy.
+If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via our convenient DMCA form or by emailing copyright@github.com.
+There may be legal consequences for sending a false or frivolous takedown notice.
+Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.",100,,
+match_233.csv,"Additional Terms In some situations, third parties' terms may apply to your use of GitHub.",,,,,
+match_233.csv,"For example, you may be a member of an organization on GitHub with its own terms or license agreements.",,,,,
+match_233.csv,you may download an application that integrates with GitHub.,,,,,
+match_233.csv,or you may use GitHub to authenticate to another service.,,,,,
+match_233.csv,"Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.",,,,,
+match_233.csv,"If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this Government Amendment to GitHub Terms of Service applies to you, and you agree to its provisions.",,,,,
+match_233.csv,"If you have signed up for GitHub Enterprise Cloud, the Enterprise Cloud Addendum applies to you, and you agree to its provisions.",,,,,
+match_233.csv,"C. Acceptable Use  Short version: GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith.",,,,,
+match_233.csv,"While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations.",,,,,
+match_233.csv,"In short, be excellent to each other.",,,,,
+match_233.csv,"Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction.",,,,,
+match_233.csv,You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.,,,,,
+match_233.csv,You agree that you will not under any circumstances violate our Acceptable Use Policies or Community Guidelines.,,,,,
+match_233.csv,"You own content you create, but you allow us certain rights to it, so that we can display and share the content you post.",14060,"You own content you create, but you allow us certain rights to it, so that we can display and share the content you post.
+        ",96,You maintain ownership of your content,
+match_233.csv,"You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service.",,,,,
+match_233.csv,We have the right to remove content or close Accounts if we need to.,,,,,
+match_233.csv,Responsibility for User-Generated Content You may create or upload User-Generated Content while using the Service.,,,,,
+match_233.csv,"You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content.",,,,,
+match_233.csv,We are not responsible for any public display or misuse of your User-Generated Content.,,,,,
+match_233.csv,"GitHub May Remove Content We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or GitHub terms or policies.",,,,,
+match_233.csv,User-Generated Content displayed on GitHub for mobile may be subject to mobile app stores' additional terms.,,,,,
+match_233.csv,"Ownership of Content, Right to Post, and License Grants You retain ownership of and responsibility for Your Content.",,,,,
+match_233.csv,"If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post.",,,,,
+match_233.csv,that you will only submit Content that you have the right to post.,,,,,
+match_233.csv,and that you will fully comply with any third party licenses relating to Content you post.,,,,,
+match_233.csv,"Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7.",,,,,
+match_233.csv,These license grants apply to Your Content.,,,,,
+match_233.csv,"If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required.",,,,,
+match_233.csv,You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7.,,,,,
+match_233.csv,"The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.",,,,,
+match_233.csv,"License Grant to Us We need the legal right to do things like host Your Content, publish it, and share it.",,,,,
+match_233.csv,"Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.",14063,"If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy.
+If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via our convenient DMCA form or by emailing copyright@github.com.
+There may be legal consequences for sending a false or frivolous takedown notice.
+Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.",100,,
+match_233.csv,"No Refunds  Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable.",14064,"No Refunds  Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account. however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.",100,,
+match_233.csv,"There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account.",14064,"No Refunds  Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account. however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.",100,,
+match_233.csv,"however, the service will remain active for the length of the paid billing period.",14064,"No Refunds  Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account. however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.",100,,
+match_233.csv,share it with other users.,,,,,
+match_233.csv,"In order to treat everyone equally, no exceptions will be made.",14064,"No Refunds  Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account. however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.",100,,
+match_233.csv,This license does not grant GitHub the right to sell Your Content.,,,,,
+match_233.csv,"It also does not grant GitHub the right to otherwise distribute or use Your Content outside of our provision of the Service, except that as part of the right to archive Your Content, GitHub may permit our partners to store and archive Your Content in public repositories in connection with the GitHub Arctic Code Vault and GitHub Archive Program.",,,,,
+match_233.csv,"License Grant to Other Users Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others.",,,,,
+match_233.csv,"""By setting your repositories to be viewed publicly, you agree to allow others to view and """"fork"""" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).""",14062,"By setting your repositories to be viewed publicly, you agree to allow others to view and ""fork"" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).",99,The copyright license that you grant this service is limited to the parties that make up the service's broader platform.,
+match_233.csv,"If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking).",,,,,
+match_233.csv,You may grant further rights if you adopt a license.,,,,,
+match_233.csv,"If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.",,,,,
+match_233.csv,"Contributions Under Repository License Whenever you add Content to a repository containing notice of a license, you license that Content under the same terms, and you agree that you have the right to license that Content under those terms.",,,,,
+match_233.csv,"If you have a separate agreement to license that Content under different terms, such as a contributor license agreement, that agreement will supersede.",,,,,
+match_233.csv,Isn't this just how it works already?,,,,,
+match_233.csv,This is widely accepted as the norm in the open-source community.,,,,,
+match_233.csv,"""it's commonly referred to by the shorthand """"inbound=outbound"""".""",,,,,
+match_233.csv,We're just making it explicit.,,,,,
+match_233.csv,"Moral Rights You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution.",,,,,
+match_233.csv,"However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.",,,,,
+match_233.csv,"To the extent this agreement is not enforceable by applicable law, you grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.",,,,,
+match_233.csv,"E. Private Repositories  Short version: We treat the content of private repositories as confidential, and we only access it as described in our Privacy Statement—for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, to comply with our legal obligations, if we have reason to believe the contents are in violation of the law, or with your consent.",,,,,
+match_233.csv,"Control of Private Repositories Some Accounts may have private repositories, which allow the User to control access to Content.",,,,,
+match_233.csv,Confidentiality of Private Repositories GitHub considers the contents of private repositories to be confidential to you.,,,,,
+match_233.csv,"GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.",,,,,
+match_233.csv,Access GitHub personnel may only access the content of your private repositories in the situations described in our Privacy Statement.,,,,,
+match_233.csv,You may choose to enable additional access to your private repositories.,,,,,
+match_233.csv,For example:  You may enable various GitHub services or features that require additional rights to Your Content in private repositories.,,,,,
+match_233.csv,"These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential.",,,,,
+match_233.csv,"If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.",,,,,
+match_233.csv,"Additionally, we may be compelled by law to disclose the contents of your private repositories.",,,,,
+match_233.csv,"GitHub will provide notice regarding our access to private repository content, unless for legal disclosure, to comply with our legal obligations, or where otherwise bound by requirements under law, for automated scanning, or if in response to a security threat or other risk to security.",,,,,
+match_233.csv,"F. Copyright Infringement and DMCA Policy If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy.",,,,,
+match_233.csv,that any defects or errors will be corrected.,14071,"that any defects or errors will be corrected.
+that the Service will be available at any particular time or location.
+or that the Service is free of viruses or other harmful components.
+        ",100,,
+match_233.csv,that the Service will be available at any particular time or location.,14071,"that any defects or errors will be corrected.
+that the Service will be available at any particular time or location.
+or that the Service is free of viruses or other harmful components.
+        ",100,,
+match_233.csv,or that the Service is free of viruses or other harmful components.,14071,"that any defects or errors will be corrected.
+that the Service will be available at any particular time or location.
+or that the Service is free of viruses or other harmful components.
+        ",100,,
+match_233.csv,We will terminate the Accounts of repeat infringers of this policy.,,,,,
+match_233.csv,G. Intellectual Property Notice  Short version: We own the service and all of our content.,,,,,
+match_233.csv,"In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.",,,,,
+match_233.csv,"GitHub's Rights to Content GitHub and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service.",,,,,
+match_233.csv,We reserve all rights that are not expressly granted to you under this Agreement or by law.,,,,,
+match_233.csv,"The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved.",,,,,
+match_233.csv,"You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.",,,,,
+match_233.csv,"GitHub Trademarks and Logos If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.",,,,,
+match_233.csv,License to GitHub Policies This Agreement is licensed under this Creative Commons Zero license.,,,,,
+match_233.csv,"For details, see our site-policy repository.",,,,,
+match_233.csv,"H. API Terms  Short version: You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.",,,,,
+match_233.csv,Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API.,,,,,
+match_233.csv,"GitHub, in our sole discretion, will determine abuse or excessive usage of the API.",,,,,
+match_233.csv,We will make a reasonable attempt to warn you via email prior to suspension.,,,,,
+match_233.csv,You may not share API tokens to exceed GitHub's rate limitations.,,,,,
+match_233.csv,"You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.",,,,,
+match_233.csv,All use of the GitHub API is subject to these Terms of Service and the GitHub Privacy Statement.,,,,,
+match_233.csv,GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.,,,,,
+match_233.csv,"I. GitHub Additional Product Terms  Short version: You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.",,,,,
+match_233.csv,Some Service features may be subject to additional terms specific to that feature or product as set forth in the GitHub Additional Product Terms.,,,,,
+match_233.csv,"By accessing or using the Services, you also agree to the GitHub Additional Product Terms.",,,,,
+match_233.csv,"Beta Previews  Short version: Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.",,,,,
+match_233.csv,Subject to Change Beta Previews may not be supported and may be changed at any time without notice.,,,,,
+match_233.csv,"In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject.",,,,,
+match_233.csv,"By using a Beta Preview, you use it at your own risk.",,,,,
+match_233.csv,"Confidentiality As a user of Beta Previews, you may get access to special information that isn’t available to the rest of the world.",,,,,
+match_233.csv,"Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.",,,,,
+match_233.csv,"You agree that any non-public Beta Preview information we give you, such as information about a private Beta Preview, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such.",,,,,
+match_233.csv,"You agree to only use such Confidential Information for the express purpose of testing and evaluating the Beta Preview (the “Purpose”), and not for any other purpose.",,,,,
+match_233.csv,"You should use the same degree of care as you would with your own confidential information, but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information.",,,,,
+match_233.csv,"You promise not to disclose, publish, or disseminate any Confidential Information to any third party, unless we don’t otherwise prohibit or restrict such disclosure (for example, you might be part of a GitHub-organized group discussion about a private Beta Preview feature).",,,,,
+match_233.csv,Confidential Information will not include information that is: (a) or becomes publicly available without breach of this Agreement through no act or inaction on your part (such as when a private Beta Preview becomes a public Beta Preview).,,,,,
+match_233.csv,(b) known to you before we disclose it to you.,,,,,
+match_233.csv,(c) independently developed by you without breach of any confidentiality obligation to us or any third party.,,,,,
+match_233.csv,or (d) disclosed with permission from GitHub.,,,,,
+match_233.csv,"You will not violate the terms of this Agreement if you are required to disclose Confidential Information pursuant to operation of law, provided GitHub has been given reasonable advance written notice to object, unless prohibited by law.",,,,,
+match_233.csv,"Feedback We’re always trying to improve of products and services, and your feedback as a Beta Preview user will help us do that.",,,,,
+match_233.csv,"If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that GitHub will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.",,,,,
+match_233.csv,K. Payment  Short version: You are responsible for any fees associated with your use of GitHub.,,,,,
+match_233.csv,"We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.",,,,,
+match_233.csv,Pricing Our pricing and payment terms are available at github.com/pricing.,,,,,
+match_233.csv,"If you agree to a subscription price, that will remain your price for the duration of the payment term.",,,,,
+match_233.csv,"however, prices are subject to change at the end of a payment term.",,,,,
+match_233.csv,"Upgrades, Downgrades, and Changes  We will immediately bill you when you upgrade from the free plan to any paying plan.",,,,,
+match_233.csv,"If you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.",,,,,
+match_233.csv,"If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.",,,,,
+match_233.csv,You may change your level of service at any time by choosing a plan option or going into your Billing settings.,,,,,
+match_233.csv,"If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account.",,,,,
+match_233.csv,Please see our section on Cancellation for information on getting a copy of that Content.,,,,,
+match_233.csv,"You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from  the use, disclosure, or display of your User-Generated Content; your use or inability to use the Service; any modification, price change, suspension or discontinuance of the Service; the Service generally or the software or systems that make the Service available; unauthorized access to or alterations of your transmissions or data; statements or conduct of any third party on the Service; any other user interactions that you input or receive through your use of the Service.",14073,"You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from  the use, disclosure, or display of your User-Generated Content; your use or inability to use the Service; any modification, price change, suspension or discontinuance of the Service; the Service generally or the software or systems that make the Service available; unauthorized access to or alterations of your transmissions or data; statements or conduct of any third party on the Service; any other user interactions that you input or receive through your use of the Service. or any other matter relating to the Service.",100,,
+match_233.csv,or any other matter relating to the Service.,14073,"You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from  the use, disclosure, or display of your User-Generated Content; your use or inability to use the Service; any modification, price change, suspension or discontinuance of the Service; the Service generally or the software or systems that make the Service available; unauthorized access to or alterations of your transmissions or data; statements or conduct of any third party on the Service; any other user interactions that you input or receive through your use of the Service. or any other matter relating to the Service.",100,,
+match_233.csv,Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement.,14076,"Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement.
+For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+        ",100,,
+match_233.csv,"For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.",14076,"Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement.
+For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+        ",100,,
+match_233.csv,Payment Based on Usage Some Service features are billed based on your usage.,,,,,
+match_233.csv,A limited quantity of these Service features may be included in your plan for a limited term without additional charge.,,,,,
+match_233.csv,"If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month.",,,,,
+match_233.csv,Monthly payment for these purchases will be charged on a periodic basis in arrears.,,,,,
+match_233.csv,See GitHub Additional Product Terms for Details.,,,,,
+match_233.csv,"Invoicing For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S.",,,,,
+match_233.csv,User must pay the fees within thirty (30) days of the GitHub invoice date.,,,,,
+match_233.csv,"Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement.",,,,,
+match_233.csv,"If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form.",,,,,
+match_233.csv,"User is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.",,,,,
+match_233.csv,"Authorization By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.",14065,"By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.
+        ",98,You authorise the service to charge a credit card supplied on re-occurring basis,
+match_233.csv,"Responsibility for Payment You are responsible for all fees, including taxes, associated with your use of the Service.",,,,,
+match_233.csv,"By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service.",,,,,
+match_233.csv,"If you dispute the matter, contact GitHub Support.",,,,,
+match_233.csv,You are responsible for providing us with a valid means of payment for paid Accounts.,,,,,
+match_233.csv,Free Accounts are not required to provide payment information.,,,,,
+match_233.csv,L. Cancellation and Termination  Short version: You may close your Account at any time.,,,,,
+match_233.csv,"If you do, we'll treat your information responsibly.",14066,"Short version: You may close your Account at any time. If you do, we'll treat your information responsibly.",100,,
+match_233.csv,Account Cancellation It is your responsibility to properly cancel your Account with GitHub.,,,,,
+match_233.csv,You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen.,,,,,
+match_233.csv,"The Account screen provides a simple, no questions asked cancellation link.",,,,,
+match_233.csv,We are not able to cancel Accounts in response to an email or phone request.,,,,,
+match_233.csv,"Upon Cancellation We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups).",,,,,
+match_233.csv,This information can not be recovered once your Account is cancelled.,,,,,
+match_233.csv,We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.,,,,,
+match_233.csv,"Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation, termination, or downgrade.",,,,,
+match_233.csv,"You must make this request within 90 days of cancellation, termination, or downgrade.",,,,,
+match_233.csv,"GitHub May Terminate GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately.",,,,,
+match_233.csv,GitHub reserves the right to refuse service to anyone for any reason at any time.,652,"GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately.
+GitHub reserves the right to refuse service to anyone for any reason at any time.",100,,
+match_233.csv,"Survival All provisions of this Agreement which, by their nature, should survive termination will survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.",14067,"All provisions of this Agreement which, by their nature, should survive termination ",100,,
+match_233.csv,M. Communications with GitHub  Short version: We use email and other electronic means to stay in touch with our users.,,,,,
+match_233.csv,"Electronic Communication Required For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service.",,,,,
+match_233.csv,"and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper.",,,,,
+match_233.csv,This section does not affect your non-waivable rights.,,,,,
+match_233.csv,"Legal Notice to GitHub Must Be in Writing Communications made through email or GitHub Support's messaging system will not constitute legal notice to GitHub or any of its officers, employees, agents or representatives in any situation where notice to GitHub is required by contract or any law or regulation.",,,,,
+match_233.csv,Legal notice to GitHub must be in writing and served on GitHub's legal agent.,,,,,
+match_233.csv,"No Phone Support GitHub only offers support via email, in-Service communications, and electronic messages.",,,,,
+match_233.csv,We do not offer telephone support.,,,,,
+match_233.csv,"N. Disclaimer of Warranties  Short version: We provide our service as is, and we make no promises or guarantees about this service.",8861,"We provide our service as is, and we make no promises or guarantees about this service
+        ",95,The service is provided 'as is' and to be used at your sole risk,
+match_233.csv,Please read this section carefully.,,,,,
+match_233.csv,you should understand what to expect.,,,,,
+match_233.csv,"GitHub provides the Website and the Service “as is” and “as available,” without warranty of any kind.",,,,,
+match_233.csv,"Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.",14068,"Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.",100,,
+match_233.csv,GitHub does not warrant that the Service will meet your requirements.,,,,,
+match_233.csv,"that the Service will be uninterrupted, timely, secure, or error-free.",14069,"that the Service will be uninterrupted, timely, secure, or error-free.
+        ",100,,
+match_233.csv,"that the information provided through the Service is accurate, reliable or correct.",14070,"that the information provided through the Service is accurate, reliable or correct.
+        ",100,,
+match_233.csv,show it to you and other users.,"764,14061","You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service.
+This includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.
+This license includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+        ","100,100",,
+match_233.csv,parse it into a search index or otherwise analyze it on our servers.,"764,14061","You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service.
+This includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.
+This license includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+        ","100,100",,
+match_233.csv,"and perform it, in case Your Content is something like music or video.","764,14061","You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service.
+This includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.
+This license includes the right to do things like copy it to our database and make backups.
+show it to you and other users.
+parse it into a search index or otherwise analyze it on our servers.
+share it with other users.
+and perform it, in case Your Content is something like music or video.
+        ","100,100",,
+match_233.csv,"You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.",14072,"You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
+        ",100,,
+match_233.csv,Limitation of Liability  Short version: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement.,,,,,
+match_233.csv,Please read this section carefully.,,,,,
+match_233.csv,it limits our obligations to you.,,,,,
+match_233.csv,You must be age 13 or older.,8862,"You must be age 13 or older.
+While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.
+GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
+If we learn of any User under the age of 13, we will terminate that User’s Account immediately.
+        ",100,,
+match_233.csv,"While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.",8862,"You must be age 13 or older.
+While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.
+GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
+If we learn of any User under the age of 13, we will terminate that User’s Account immediately.
+        ",100,,
+match_233.csv,"Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose.",,,,,
+match_233.csv,We will have no liability for any failure or delay due to matters beyond our reasonable control.,,,,,
+match_233.csv,P. Release and Indemnification  Short version: You are responsible for your use of the service.,,,,,
+match_233.csv,"If you harm someone else or get into a dispute with someone else, we will not be involved.",,,,,
+match_233.csv,"If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.",14074,"If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.",100,,
+match_233.csv,"GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.",8862,"You must be age 13 or older.
+While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.
+GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
+If we learn of any User under the age of 13, we will terminate that User’s Account immediately.
+        ",100,,
+match_233.csv,"If we learn of any User under the age of 13, we will terminate that User’s Account immediately.",8862,"You must be age 13 or older.
+While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law.
+GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service.
+If we learn of any User under the age of 13, we will terminate that User’s Account immediately.
+        ",100,,
+match_233.csv,"You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding.",915,"You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding.
+(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability).
+and (3) provides to you all reasonable assistance, at your expense.",100,,
+match_233.csv,"Changes to These Terms  Short version: We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo.",,,,,
+match_233.csv,"So while we may modify this agreement at any time, we will notify users of any material changes and give you time to adjust to them.",14075,"So while we may modify this agreement at any time, we will notify users of any material changes and give you time to adjust to them.",100,,
+match_233.csv,"We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments.",,,,,
+match_233.csv,"We will notify our Users of material changes to this Agreement, such as price increases, at least 30 days prior to the change taking effect by posting a notice on our Website or sending email to the primary email address specified in your GitHub account.",,,,,
+match_233.csv,"(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability).",915,"You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding.
+(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability).
+and (3) provides to you all reasonable assistance, at your expense.",100,,
+match_233.csv,"and (3) provides to you all reasonable assistance, at your expense.",915,"You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding.
+(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability).
+and (3) provides to you all reasonable assistance, at your expense.",100,,
+match_233.csv,You can view all changes to these Terms in our Site Policy repository.,,,,,
+match_233.csv,"We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.",14077,"We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
+        ",100,,
+match_233.csv,"Governing Law Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions.",14078,"Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions.
+        ",99,The court of law governing the terms is in location X,
+match_233.csv,"You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.","14079,582","You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+        
+Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions.
+You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+        ","100,100",,
+match_233.csv,"Non-Assignability GitHub may assign or delegate these Terms of Service and/or the GitHub Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4.",,,,,
+match_233.csv,"You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.",14080,"GitHub may assign or delegate these Terms of Service and/or the GitHub Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4.
+You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.",100,,
+match_233.csv,"Section Headings and Summaries Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions.",,,,,
+match_233.csv,These section titles and brief summaries are not legally binding.,14081,"Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions.
+These section titles and brief summaries are not legally binding.
+        ",100,,
+match_233.csv,"Severability, No Waiver, and Survival If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent.",,,,,
+match_233.csv,The remaining portions will remain in full force and effect.,14082,"If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect.",100,,
+match_233.csv,Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision.,14083,"Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision.
+        ",100,,
+match_233.csv,Our rights under this Agreement will survive any termination of this Agreement.,,,,,
+match_233.csv,"Complete Agreement This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with Section Q.",,,,,
+match_233.csv,"These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us.",,,,,
+match_233.csv,"This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.",,,,,
+match_233.csv,Questions Questions about the Terms of Service?,,,,,
+match_233.csv,Did this doc help you?,,,,,
+match_233.csv,Privacy policy     Want to learn about new docs features and updates?,,,,,
+match_233.csv,We're continually improving our docs.,,,,,
+match_233.csv,We'd love to hear how we can do better.,,,,,
+match_233.csv,What problem did you have?,,,,,
+match_233.csv,Required Choose an option Information was unclear The content was confusing The article didn't answer my question Other   Let us know what we can do better Optional   Can we contact you if we have more questions?,,,,,
+match_233.csv,Your feedback has been submitted.,,,,,
+match_233.csv,Help us make these docs great!,,,,,
+match_233.csv,All GitHub docs are open source.,14084,All GitHub docs are open source.,100,,
+match_233.csv,See something that's wrong or unclear?,,,,,
+match_233.csv,"Make a contribution Or, learn how to contribute.",,,,,
+match_233.csv,"Ask the GitHub community Contact support   © 2020 GitHub, Inc.",,,,,
+match_233.csv,Terms  Privacy  Security Status Help Contact GitHub Pricing Developer API Training About,,,,,
