@@ -1,0 +1,18 @@
+2022-04-23 10:55:22,504 GBClassifier INFO Apply model Gradient Boosting
+2022-04-23 10:55:23,220 GBClassifier INFO Number of positive labels: 1401
+2022-04-23 10:55:23,220 GBClassifier INFO Number of negative labels: 5751
+2022-04-23 10:55:23,220 GBClassifier INFO Start over-sampling using SMOTEENN
+2022-04-23 10:55:26,651 GBClassifier INFO After over-sampling, number of positive labels: 1921
+2022-04-23 10:55:26,651 GBClassifier INFO After over-sampling, number of negative labels: 3253
+2022-04-23 10:55:32,759 GBClassifier INFO               precision    recall  f1-score   support
+
+        -1.0       0.94      0.94      0.94      2631
+         1.0       0.56      0.53      0.55       369
+
+    accuracy                           0.89      3000
+   macro avg       0.75      0.74      0.74      3000
+weighted avg       0.89      0.89      0.89      3000
+
+2022-04-23 10:55:32,779 GBClassifier INFO [[2476  155]
+ [ 172  197]]
+2022-04-23 10:55:32,875 GBClassifier INFO AUC: 0.8588401372421174

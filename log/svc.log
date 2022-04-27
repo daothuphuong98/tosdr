@@ -1,0 +1,18 @@
+2022-04-23 10:32:58,865 SVClassifier INFO Apply model SVC
+2022-04-23 10:32:59,317 SVClassifier INFO Number of positive labels: 1401
+2022-04-23 10:32:59,317 SVClassifier INFO Number of negative labels: 5751
+2022-04-23 10:32:59,317 SVClassifier INFO Start over-sampling using SMOTEENN
+2022-04-23 10:33:02,402 SVClassifier INFO After over-sampling, number of positive labels: 1921
+2022-04-23 10:33:02,408 SVClassifier INFO After over-sampling, number of negative labels: 3253
+2022-04-23 10:33:23,050 SVClassifier INFO               precision    recall  f1-score   support
+
+        -1.0       0.94      0.96      0.95      2631
+         1.0       0.67      0.60      0.63       369
+
+    accuracy                           0.91      3000
+   macro avg       0.81      0.78      0.79      3000
+weighted avg       0.91      0.91      0.91      3000
+
+2022-04-23 10:33:23,050 SVClassifier INFO [[2522  109]
+ [ 149  220]]
+2022-04-23 10:33:23,065 SVClassifier INFO AUC: 0.9058736824540424
