@@ -1,0 +1,19 @@
+This is a simple API which classifies paragraph of Terms of Service
+---
+parameters:
+    - name: paragraph
+      in: body
+      description: names to detect
+      required: true
+    - name: method
+      in: query
+      default: Random Forest
+      description: method to classify, default is Random Forest
+      required: false
+      type: string
+
+responses:
+    200:
+        description: A dictionary with the required fields, "try it out" for more details
+
+

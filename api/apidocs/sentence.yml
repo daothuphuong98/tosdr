@@ -1,0 +1,17 @@
+This is a simple API which detects unfair clauses in Terms of Service
+---
+parameters:
+  - name: sentence
+    in: body
+    description: sentence to detect
+    required: true
+  - name: method
+    in: query
+    default: Random Forest
+    description: method to classify, default is Random Forest
+    required: false
+    type: string
+
+responses:
+  200:
+    description: A dictionary with the required fields, "try it out" for more details
