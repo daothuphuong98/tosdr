@@ -1,13 +1,16 @@
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, DataCollatorWithPadding, TrainingArguments, Trainer
-from datasets import load_dataset, load_metric
+from datasets import load_dataset, load_metric, Dataset
 import numpy as np
+import pandas as pd
 from classifier.classifier import Classifier
+from scipy.special import softmax
 
 class BERTClassifier(Classifier):
 
     _name = 'bert'
     model_path = 'classifier/model/bert'
     output_dir = 'classifier/model/bert/res'
+    optimal_threshold = 0.9978
 
     def __init__(self):
         super().__init__()
@@ -65,10 +68,34 @@ class BERTClassifier(Classifier):
         dataset = dataset.map(lambda x: self.tokenizer(x['sent'], truncation=True, padding='max_length'),
                               batched=True)
         dataset = dataset.remove_columns(['sent'])
-        predictions = self.trainer.predict(dataset['train'])
-        predictions = np.argmax(predictions.predictions, axis=-1)
+        predictions = self.trainer.predict(dataset['train']).predictions
 
-        clf.score(dataset['train']['labels'], predictions)
+        proba_pred = softmax(predictions, axis=-1)[:, -1]
+        pred = np.where(proba_pred > self.optimal_threshold, 1, 0)
+
+        scoreboard = pd.DataFrame()
+        scoreboard['predictions'] = pred
+        scoreboard['pred_proba'] = proba_pred
+        scoreboard['labels'] = dataset['train']['labels']
+        scoreboard.to_csv(f'data/prediction/{self._name}.csv', index=False)
+
+        clf.score(dataset['train']['labels'], pred)
+
+    def predict_sentence(self, sentence, proba = False, threshold=None):
+        dataset = Dataset.from_dict({'sent': [sentence]})
+        dataset = dataset.map(lambda x: self.tokenizer(x['sent'], truncation=True, padding='max_length'),
+                              batched=True)
+        dataset = dataset.remove_columns(['sent'])
+        predictions = self.trainer.predict(dataset).predictions
+
+        proba_pred = softmax(predictions, axis=-1)
+        if proba:
+            return proba_pred[0,-1]
+        else:
+            if threshold is None:
+                return int(proba_pred[0,-1] > self.optimal_threshold)
+            else:
+                return int(proba_pred[0,-1] > threshold)
 
     def save_model(self):
         if self.trainer:

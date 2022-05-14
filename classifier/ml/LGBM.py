@@ -2,14 +2,13 @@ from classifier.classifier import Classifier
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from imblearn.combine import SMOTEENN
-from sklearn.svm import SVC
+from lightgbm import LGBMClassifier
 
-class SVClassifier(Classifier):
+class LtGBMClassifier(Classifier):
 
-    _name = 'SVC'
-    model_path = 'classifier/model/svc'
-    transformer_path = 'classifier/model/tfidf'
-    optimal_threshold = 0.671
+    _name = 'Light GBM'
+    model_path = 'classifier/model/lgbm'
+    optimal_threshold = 0.609
 
     def __init__(self, stop_word):
         self.stopword = stop_word
@@ -43,11 +42,13 @@ class SVClassifier(Classifier):
         self.log.info(f'After over-sampling, number of positive labels: {(smoted_y==1).sum()}')
         self.log.info(f'After over-sampling, number of negative labels: {len(smoted_y) - (smoted_y==1).sum()}')
 
-        self.md = SVC(probability=True, random_state=40)
+        param = {'colsample_bytree': 0.5, 'learning_rate': 0.2, 'max_depth': 12, 'min_child_weight': 1,
+                 'subsample': 0.9124868783261229}
+        self.md = LGBMClassifier(random_state=40, **param)
         self.md.fit(smoted_X, smoted_y)
 
 if __name__ == '__main__':
-    clf = SVClassifier(True)
+    clf = LtGBMClassifier(True)
     # clf.train('data/tosware_train.csv')
     # clf.save_transformer()
     clf.load_model()
