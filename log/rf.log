@@ -1,2 +1,13 @@
-2022-04-27 20:50:48,884 RFClassifier INFO Apply model Random Forest
-[1.]
+2022-05-14 15:55:47,475 RFClassifier INFO Apply model Random Forest
+2022-05-14 15:55:47,819 RFClassifier INFO               precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      2631
+           1       0.66      0.68      0.67       369
+
+    accuracy                           0.92      3000
+   macro avg       0.81      0.82      0.81      3000
+weighted avg       0.92      0.92      0.92      3000
+
+2022-05-14 15:55:47,819 RFClassifier INFO [[2502  129]
+ [ 117  252]]
+2022-05-14 15:55:47,819 RFClassifier INFO AUC: 0.9134779299142288
