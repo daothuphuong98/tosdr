@@ -1,0 +1,13 @@
+10:21:42 RFClassifier INFO Predict data from data/tosware_test.csv
+10:21:43 RFClassifier INFO               precision    recall  f1-score   support
+
+           0       0.95      0.96      0.95      2631
+           1       0.68      0.65      0.67       369
+
+    accuracy                           0.92      3000
+   macro avg       0.82      0.80      0.81      3000
+weighted avg       0.92      0.92      0.92      3000
+
+10:21:43 RFClassifier INFO [[2521  110]
+ [ 130  239]]
+10:21:43 RFClassifier INFO AUC: 0.9151532849421995

@@ -1,0 +1,13 @@
+10:19:45 LtGBMClassifier INFO Predict data from data/tosware_test.csv
+10:19:45 LtGBMClassifier INFO               precision    recall  f1-score   support
+
+           0       0.95      0.92      0.94      2631
+           1       0.55      0.69      0.61       369
+
+    accuracy                           0.89      3000
+   macro avg       0.75      0.80      0.77      3000
+weighted avg       0.90      0.89      0.90      3000
+
+10:19:45 LtGBMClassifier INFO [[2426  205]
+ [ 116  253]]
+10:19:45 LtGBMClassifier INFO AUC: 0.8819088437938731

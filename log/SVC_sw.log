@@ -1,0 +1,13 @@
+10:20:37 SVClassifier INFO Predict data from data/tosware_test.csv
+10:20:39 SVClassifier INFO               precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94      2631
+           1       0.59      0.69      0.63       369
+
+    accuracy                           0.90      3000
+   macro avg       0.77      0.81      0.79      3000
+weighted avg       0.91      0.90      0.91      3000
+
+10:20:39 SVClassifier INFO [[2454  177]
+ [ 116  253]]
+10:20:39 SVClassifier INFO AUC: 0.9058736824540424
