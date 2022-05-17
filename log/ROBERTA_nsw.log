@@ -1,0 +1,12 @@
+21:55:47 ROBERTAClassifier INFO               precision    recall  f1-score   support
+
+           0       0.96      0.97      0.97      2631
+           1       0.77      0.74      0.75       369
+
+    accuracy                           0.94      3000
+   macro avg       0.86      0.86      0.86      3000
+weighted avg       0.94      0.94      0.94      3000
+
+21:55:47 ROBERTAClassifier INFO [[2547   84]
+ [  95  274]]
+21:55:47 ROBERTAClassifier INFO AUC: 0.9343330871545127

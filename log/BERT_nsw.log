@@ -1,0 +1,12 @@
+21:55:13 BERTClassifier INFO               precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96      2631
+           1       0.69      0.76      0.73       369
+
+    accuracy                           0.93      3000
+   macro avg       0.83      0.86      0.84      3000
+weighted avg       0.93      0.93      0.93      3000
+
+21:55:13 BERTClassifier INFO [[2507  124]
+ [  87  282]]
+21:55:13 BERTClassifier INFO AUC: 0.9263415458175865
