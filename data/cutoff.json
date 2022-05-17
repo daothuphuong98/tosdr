@@ -1,0 +1,8 @@
+{"BERT": {"threshold": 0.98457233, "score": 0.9348736329741921},
+  "Light GBM_nsw": {"threshold": 0.6292044606780307, "score": 0.7791651266162919},
+  "Light GBM_sw": {"threshold": 0.5081966033045597, "score": 0.7771226843929073},
+  "Random Forest_nsw": {"threshold": 0.45069444444444445, "score": 0.787761738618821},
+  "Random Forest_sw": {"threshold": 0.4556712962962963, "score": 0.8095990996096983},
+  "ROBERTA": {"threshold": 0.9893920900000001, "score": 0.9880700396149834},
+  "SVC_nsw": {"threshold": 0.43362148929413213, "score": 0.7837440713227795},
+  "SVC_sw": {"threshold": 0.5434895532713201, "score": 0.7763317106033095}}
