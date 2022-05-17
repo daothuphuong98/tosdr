@@ -3,8 +3,8 @@ import os
 from flasgger import Swagger
 from flask import Flask, request
 
-from api.service import TOSService
-from api.utils import ok_json, is_valid_method, method_not_allowed, Methods
+from app.service import TOSService
+from app.utils import ok_json, is_valid_method, method_not_allowed, Methods
 
 app = Flask(__name__)
 app.config['SWAGGER'] = {
