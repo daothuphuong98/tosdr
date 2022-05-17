@@ -1,25 +1,13 @@
-from classifier.classifier import Classifier
+from classifier.ml.ml_classifier import MLClassifier
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from imblearn.combine import SMOTEENN
 from lightgbm import LGBMClassifier
 
-class LtGBMClassifier(Classifier):
+class LtGBMClassifier(MLClassifier):
 
     _name = 'Light GBM'
     model_path = 'classifier/model/lgbm'
-    optimal_threshold = 0.609
-
-    def __init__(self, stop_word):
-        self.stopword = stop_word
-        if stop_word:
-            self.model_path += '_sw'
-            self.transformer_path += '_sw'
-        else:
-            self.model_path += '_nsw'
-            self.transformer_path += '_nsw'
-
-        super().__init__()
 
     def train(self, filepath):
         df=pd.read_csv(filepath)
@@ -48,7 +36,7 @@ class LtGBMClassifier(Classifier):
         self.md.fit(smoted_X, smoted_y)
 
 if __name__ == '__main__':
-    clf = LtGBMClassifier(True)
+    clf = LtGBMClassifier(False)
     # clf.train('data/tosware_train.csv')
     # clf.save_transformer()
     clf.load_model()

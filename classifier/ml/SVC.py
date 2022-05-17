@@ -1,26 +1,14 @@
-from classifier.classifier import Classifier
+from classifier.ml.ml_classifier import MLClassifier
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from imblearn.combine import SMOTEENN
 from sklearn.svm import SVC
 
-class SVClassifier(Classifier):
+class SVClassifier(MLClassifier):
 
     _name = 'SVC'
     model_path = 'classifier/model/svc'
     transformer_path = 'classifier/model/tfidf'
-    optimal_threshold = 0.671
-
-    def __init__(self, stop_word):
-        self.stopword = stop_word
-        if stop_word:
-            self.model_path += '_sw'
-            self.transformer_path += '_sw'
-        else:
-            self.model_path += '_nsw'
-            self.transformer_path += '_nsw'
-
-        super().__init__()
 
     def train(self, filepath):
         df=pd.read_csv(filepath)
@@ -47,7 +35,7 @@ class SVClassifier(Classifier):
         self.md.fit(smoted_X, smoted_y)
 
 if __name__ == '__main__':
-    clf = SVClassifier(True)
+    clf = SVClassifier(False)
     # clf.train('data/tosware_train.csv')
     # clf.save_transformer()
     clf.load_model()

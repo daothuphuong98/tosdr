@@ -3,10 +3,9 @@ import joblib
 from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score
 import numpy as np
 import pandas as pd
-logging.basicConfig(format='%(asctime)s %(name)s %(levelname)s %(message)s', level=logging.ERROR)
+import json
 
-
-class Classifier:
+class MLClassifier:
     """
     Interface class
     """
@@ -18,13 +17,34 @@ class Classifier:
     def get_name(self):
         return self._name
 
-    def __init__(self):
+    def __init__(self, stop_word):
         self.log = logging.getLogger(self.__class__.__name__)
         self.log.setLevel(logging.INFO)
         self.log.info('Apply model %s' % self.get_name())
         self.results = []
         self.vectorizer = None
         self.md = None
+
+        with open('data/cutoff.json') as f:
+            cutoff = json.load(f)
+
+        self.stopword = stop_word
+        if stop_word:
+            self.model_path += '_sw'
+            self.transformer_path += '_sw'
+            self.optimal_threshold = cutoff.get(self._name + '_sw', {}).get('threshold')
+            log_path = f'log/{self._name}_sw.log'
+        else:
+            self.model_path += '_nsw'
+            self.transformer_path += '_nsw'
+            self.optimal_threshold = cutoff.get(self._name + '_nsw',{}).get('threshold')
+            log_path = f'log/{self._name}_nsw.log'
+
+        logging.basicConfig(filename=log_path,
+                            filemode='a',
+                            datefmt='%H:%M:%S',
+                            format='%(asctime)s %(name)s %(levelname)s %(message)s',
+                            level=logging.INFO)
 
     def score(self, y_true, y_pred, y_pred_proba=None):
         self.log.info(classification_report(y_true, y_pred))
@@ -36,6 +56,7 @@ class Classifier:
         raise NotImplementedError
 
     def predict(self, filepath):
+        self.log.info(f'Predict data from {filepath}')
         df = pd.read_csv(filepath)
 
         X = self.vectorizer.transform(df['sent'])
@@ -51,9 +72,9 @@ class Classifier:
         scoreboard['pred_proba'] = pred_proba
         scoreboard['labels'] = y
         if self.stopword:
-            scoreboard.to_csv(f'data/prediction/{self._name}_sw.csv', index=False)
+            scoreboard.to_csv(f'data/prediction/test/{self._name}_sw.csv', index=False)
         else:
-            scoreboard.to_csv(f'data/prediction/{self._name}_nsw.csv', index=False)
+            scoreboard.to_csv(f'data/prediction/test/{self._name}_nsw.csv', index=False)
 
     def predict_sentence(self, sentence, proba=False, threshold=None):
         X = self.vectorizer.transform([sentence])
