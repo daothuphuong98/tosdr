@@ -1,5 +1,6 @@
 10:21:47 RFClassifier INFO Predict data from data/tosware_test.csv
-10:21:47 RFClassifier INFO               precision    recall  f1-score   support
+10:21:47 RFClassifier INFO
+                precision    recall  f1-score   support
 
            0       0.96      0.94      0.95      2631
            1       0.64      0.70      0.67       369
