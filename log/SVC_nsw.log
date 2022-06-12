@@ -1,5 +1,6 @@
 10:20:45 SVClassifier INFO Predict data from data/tosware_test.csv
-10:20:47 SVClassifier INFO               precision    recall  f1-score   support
+10:20:47 SVClassifier INFO
+                precision    recall  f1-score   support
 
            0       0.96      0.93      0.94      2631
            1       0.58      0.73      0.65       369

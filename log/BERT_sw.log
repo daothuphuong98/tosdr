@@ -1,4 +1,5 @@
-21:54:10 BERTClassifier INFO               precision    recall  f1-score   support
+21:54:10 BERTClassifier INFO
+                precision    recall  f1-score   support
 
            0       0.97      0.94      0.95      2631
            1       0.65      0.76      0.70       369

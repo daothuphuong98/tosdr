@@ -1,5 +1,6 @@
 10:20:08 LtGBMClassifier INFO Predict data from data/tosware_test.csv
-10:20:08 LtGBMClassifier INFO               precision    recall  f1-score   support
+10:20:08 LtGBMClassifier INFO
+                precision    recall  f1-score   support
 
            0       0.95      0.95      0.95      2631
            1       0.65      0.63      0.64       369
