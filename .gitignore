@@ -1,4 +1,4 @@
-.idea
+/.idea
 /classifier/model/bert_nsw/config.json
 /classifier/model/bert_sw/config.json
 /classifier/model/roberta_nsw/config.json

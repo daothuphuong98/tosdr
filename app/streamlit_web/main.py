@@ -14,6 +14,7 @@ st.set_page_config(
     layout='wide'
 )
 
+service = load_service()
 c1, c2 = st.columns([2.5,5])
 
 with c2:
@@ -51,7 +52,7 @@ bl, c1, bl, c2, bl = st.columns([0.1,1.5,0.1, 5,0.1])
 with c1:
     with st.form(key="my_form"):
         if ensemble == 'Single model':
-            ModelType = [st.selectbox("Choose your model", [Methods.BERT, Methods.RF, Methods.SVC, Methods.LGBM])]
+            ModelType = [st.selectbox("Choose your model", [Methods.BERT, Methods.RF, Methods.SVC, Methods.LGBM, Methods.ROBERTA])]
             threshold = st.text_input("Choose cutoff threshold")
             StopWordsCheckbox = st.checkbox(
                 "Remove stop words",
@@ -59,7 +60,7 @@ with c1:
             )
             ensemble_method = 'Hard Voting'
         else:
-            ModelType = st.multiselect("Choose your model", [Methods.BERT, Methods.RF, Methods.SVC, Methods.LGBM])
+            ModelType = st.multiselect("Choose your model", [Methods.BERT, Methods.RF, Methods.SVC, Methods.LGBM, Methods.ROBERTA])
             ensemble_method = st.radio("Choose ensemble method", ['Hard Voting', 'Soft Voting'])
             StopWordsCheckbox = st.checkbox(
                 "Remove stop words",
@@ -73,7 +74,6 @@ if submit_button:
     with c2:
         report = None
         if raw_text:
-            service = load_service()
             if len(threshold) > 0:
                 threshold = float(threshold.replace(',', '.'))
             else:

@@ -1,7 +1,8 @@
 import logging
-
+import re
 from app.utils import Methods
-from statistics import mode, mean
+from statistics import mode
+import numpy as np
 from classifier.ml.LGBM import LtGBMClassifier
 from classifier.ml.RF import RFClassifier
 from classifier.ml.SVC import SVClassifier
@@ -69,7 +70,7 @@ class TOSService:
             labels.append(classifier.predict_sentence(s, proba, threshold))
 
         if proba:
-            label = int(mean(labels) >= 0.5)
+            label = int(np.mean(labels) >= 0.5)
         else:
             label = mode(labels)
 
@@ -79,7 +80,8 @@ class TOSService:
         sents = self.tokenizer.tokenize(text=paragraph)
 
         for ind, s in enumerate(sents):
-            result = self.detect(s, methods, stopword, threshold, voting)
+            removed_s = re.sub('[^A-Za-z0-9]+', ' ', s)
+            result = self.detect(removed_s, methods, stopword, threshold, voting)
             if result['label'] == 1:
                 sents[ind] = self.start_mark + s + self.end_mark
 
@@ -87,7 +89,8 @@ class TOSService:
                 'paragraph': ' '.join(sents)}
 
     def score_test_dataset(self, methods, stopword, voting='hard'):
-        score = pd.DataFrame()
+        labels = pd.DataFrame()
+        probas = pd.DataFrame()
         for method in methods:
             if stopword:
                 pred_path = self.prediction_folder + f"/{method}_sw.csv"
@@ -95,26 +98,21 @@ class TOSService:
                 pred_path = self.prediction_folder + f"/{method}_nsw.csv"
             method_pred = pd.read_csv(pred_path)
 
-            if voting == 'hard':
-                score[method] = method_pred['predictions']
-            else:
-                score[method] = method_pred['pred_proba']
+            labels[method] = method_pred['predictions']
+            probas[method] = method_pred['pred_proba']
 
-        proba_pred = score.mean(axis=1)
+        proba_pred = probas.mean(axis=1)
         if voting == 'soft':
-            score['prediction'] = pd.to_numeric(proba_pred >= 0.5)
+            predictions = pd.to_numeric(proba_pred >= 0.5)
         else:
-            score['prediction'] = score.mode(axis=1).loc[:,0]
-        score['proba_pred'] = proba_pred
+            predictions = labels.mode(axis=1).loc[:,0]
 
-        report = classification_report(method_pred['labels'], score['prediction'])
-        roc_curve = RocCurveDisplay.from_predictions(method_pred['labels'], score['proba_pred'])
-        conf_matrix = ConfusionMatrixDisplay.from_predictions(method_pred['labels'], score['prediction'])
+        report = classification_report(method_pred['labels'], predictions)
+        roc_curve = RocCurveDisplay.from_predictions(method_pred['labels'], proba_pred)
+        conf_matrix = ConfusionMatrixDisplay.from_predictions(method_pred['labels'], predictions)
 
         return report, roc_curve.figure_, conf_matrix.figure_
 
 if __name__ == '__main__':
     x = TOSService()
-    x.detect_paragraph('''PLEASE READ THESE TERMS OF USE CAREFULLY. 
-    BY REGISTERING FOR AN ACCOUNT OR BY ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF USE AND ALL TERMS INCORPORATED BY REFERENCE.''',
-                       ["Light GBM"], True)
+    x.detect_paragraph('''skype is not involved in any transactions between you and any merchant whose products and/or services are listed on the skype websites''', ["BERT", "SVC"], True, None, 'soft')
